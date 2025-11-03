@@ -1,0 +1,3768 @@
+LABORATORY:  0.00 AT START MARK
+
+58.15 = 1ST SCENE END
+
+59.02 = 2ND SCENE END
+
+60.13 = 3RD SCENE END
+
+61.00 = 4TH SCENE END
+
+(flat 1.85)
+
+1-1.  122.07     123.15      1.08 MALE VOICE #1 TO PERSON) (voice over)
+ITAL                                    (whispering) (OPTIONAL)
+I'm coming.
+
+LABORATORY:  THE FOLLOWING NARRATIVE TITLE #1-2 IS TO APPEAR AS LOW AS
+POSSIBLE IN THE FRAME TO AVOID DOUBLE-PRINTING.
+
+1-2.  124.05     137.08      13.03      NARRATIVE TITLE)
+MAIN
+TITLE                  THE FORSAKEN
+
+1-3.  141.15     144.02/     2.03 FEMALE DISC JOCKEY TO GROUP)
+ITAL                         (voice over)
+Yo, yo, yo, what's up!
+
+1-4.  147.08     149.08      2.00 FEMALE DISC JOCKEY TO GROUP)
+ITAL  (over scene end)                  (voice over)
+Is it hot enough for you?
+
+1-5.  149.13     153.02      3.05 FEMALE DISC JOCKEY TO GROUP)
+ITAL                         (voice over)
+Well, crank up your air
+conditioners!
+
+LABORATORY:  THE FOLLOWING TITLES #1-6 THROUGH #1-13 WILL DOUBLE-PRINT OVER
+EXISTING TYPEFACE AND ARE TO APPEAR IN THE UPPER 1/3 OF THE FRAME.
+
+1-6.  153.07     157.01      3.10 FEMALE DISC JOCKEY TO GROUP)
+ITAL                         (voice over)
+Today it's going to get
+seriously hot.
+
+1-7.  157.06     161.12      4.06 FEMALE DISC JOCKEY TO GROUP)
+ITAL                         (voice over)
+So quit your whining, my
+little superstars...
+
+1-8.  162.01     167.05      5.04 FEMALE DISC JOCKEY TO GROUP)
+ITAL  (over scene end)                  (voice over)
+...because I'm going to lay
+down something extra special.
+(lay down  :  slang for
+'play')
+
+1-9.  202.11     204.13/     2.02 HOOT TO SEAN)
+What's your name again?
+
+1-10. 205.07     207.11      2.04 SEAN TO HOOT, THEN HOOT TO SEAN)
+-Sean.
+-Sean, yeah.
+
+1-11. 208.00     211.15      3.15 HOOT TO SEAN)
+I did business with a guy
+named Sean once.
+
+1-12. 212.04     215.03      2.15 HOOT TO SEAN)
+Fucked me over real good.
+
+1-13. 215.12     218.14      3.02 SEAN TO HOOT, THEN HOOT TO SEAN)
+-You can trust me, sir.
+-Well, just remember.
+
+1-14. 219.03     224.01/     4.14 HOOT TO SEAN)
+This woman wants her car by
+Tuesday.  That's five days
+from now.
+
+LABORATORY:  THE FOLLOWING TITLES #1-15 THROUGH #1-18 WILL DOUBLE-PRINT
+OVER EXISTING TYPEFACE AND ARE TO APPEAR IN THE UPPER 1/3 OF THE FRAME.
+
+1-15. 224.08     226.09      2.01 SEAN TO HOOT)
+I can do it.  I worked out--
+
+1-16. 226.14     233.09      6.11 HOOT TO SEAN)
+(over scene end)        I don't give a shit how, so long as it
+gets there by Tuesday and in
+one piece.
+
+1-17. 233.14     236.14      3.00 HOOT TO SEAN)
+If it don't, that bitch'll
+ream my ass.
+(ream my ass  :  vulgar
+slang for 'be extremely
+troublesome')
+
+1-18. 237.02     241.10      4.08 HOOT TO SEAN)
+And if that happens, I'll come
+looking for yours.
+(yours  :  i.e., 'your
+ass')
+
+1-19. 242.02     244.05/     2.03 GARAGE WOMAN TO HOOT)
+Hoot, what are you eating?
+
+1-20. 244.12     248.00      3.04 HOOT TO GARAGE WOMAN,
+THEN GARAGE WOMAN TO HOOT)
+-None of your business.
+-What did the doctor say?
+
+LABORATORY:  THE FOLLOWING TITLES #1-21 AND #1-22 WILL DOUBLE-PRINT OVER
+EXISTING TYPEFACE AND ARE TO APPEAR IN THE UPPER 1/3 OF THE FRAME.
+
+1-21. 248.05     251.06      3.01 HOOT TO GARAGE WOMAN)
+Fuck him.  You got them papers
+yet?
+
+1-22. 251.10     255.01      3.07 GARAGE WOMAN TO HOOT,
+THEN HOOT TO GARAGE WOMAN
+-I'm getting there.
+-Yeah, for the last hour.
+(Yeah...hour  :  Note
+sarcasm)
+
+1-23. 255.06     259.14      4.08 GARAGE WOMAN TO HOOT)
+I was getting there then and
+I'm still getting there.
+
+LABORATORY:  THE FOLLOWING TITLES #1-24 THROUGH #1-26 WILL DOUBLE-PRINT
+OVER EXISTING TYPEFACE AND ARE TO APPEAR IN THE UPPER 1/3 OF THE FRAME.
+
+1-24. 260.04     263.02      2.14 GARAGE WOMAN TO SEAN)
+These are bonding papers,
+registration.
+(bonding papers  :  an
+insurance contract in
+which an agency
+guarantees payment to an
+employer in the event of
+unforeseen financial
+loss through the actions
+of an employee)
+
+1-25. 263.07     266.01      2.10 GARAGE WOMAN TO SEAN)
+In case the cops pull you
+over.
+
+1-26. 266.06     269.11      3.05 HOOT TO SEAN, THEN SEAN TO HOOT)
+-But that won't happen.
+-No, sir.
+
+1-27. 270.00     272.15      2.15 GARAGE WOMAN TO SEAN)
+Your contract.  Half your fee
+up front--
+
+LABORATORY:  THE FOLLOWING TITLE #1-28 WILL DOUBLE-PRINT OVER EXISTING
+TYPEFACE AND IS TO APPEAR IN THE UPPER 1/3 OF THE FRAME.
+
+1-28. 273.04     279.03      5.15 HOOT TO SEAN)
+And the other half when you
+deliver the car.  Here.
+
+1-29. 279.12     282.00      2.04 HOOT TO SEAN)
+Sign here.
+
+1-30. 283.05     285.13/     2.08 SEAN TO HOOT)
+What about insurance?
+
+1-31. /286.02    288.04      2.02 HOOT TO SEAN)
+Don't worry, I'm covered.
+
+1-32. 288.09     292.09/     4.00 HOOT TO SEAN)
+You get into an accident and
+it's the other guy's fault...
+
+1-33. /292.14    294.09      1.11 HOOT TO SEAN)
+...just call me.
+
+1-34. 296.03     297.13/     1.10 SEAN TO HOOT)
+What if it's my fault?
+
+1-35. 298.14     303.13/     4.15 HOOT TO SEAN)
+Then you better hope to hell I
+never catch your ass.
+(your ass  :  vulgar
+slang for 'you')
+
+LABORATORY:  THE FOLLOWING TITLES #1-36 THROUGH #1-40 WILL DOUBLE-PRINT
+OVER EXISTING TYPEFACE AND ARE TO APPEAR IN THE UPPER 1/3 OF THE FRAME.
+
+1-36. 312.07     316.00      3.09 HOOT TO SEAN)
+Now, this ain't no sightseeing
+trip.
+
+1-37. 316.05     321.01      4.12 HOOT TO SEAN)
+You fuck around, you won't
+make Miami by Tuesday.
+(fuck around  :  vulgar
+slang for 'dawdle')
+
+1-38. 321.13     324.11      2.14 HOOT TO SEAN)
+And no goddamn hitchhikers.
+
+1-39. 325.00     329.02/     4.02 HOOT TO SEAN)
+Whatever hard-luck story they
+give you, don't pick them up.
+(hard-luck story  :
+i.e., 'tale of woe')
+
+1-40. 330.01     332.08      2.07 HOOT TO SEAN)
+They're just asking for
+trouble.
+
+1-41. 332.13     335.05      2.08 HOOT TO SEAN)
+(over scene end)        This woman's a real ball-buster.
+(This woman  :
+Referring to the owner
+of the car)
+(ball-buster  :  vulgar
+slang for 'despicable,
+demanding woman')
+
+1-42. 335.10     340.01      4.07 HOOT TO SEAN)
+Her husband ran off with some
+Florida State cheerleader...
+
+1-43. 340.06     343.10/     3.04 HOOT TO SEAN)
+...and she got this beauty in
+the divorce.
+(this beauty  :
+referring to the car)
+
+1-44. /343.15    346.06/     2.07 HOOT TO SEAN)
+She doesn't want a scratch on
+it.
+
+1-45. 346.14     349.10/     2.12 SEAN TO HOOT)
+Sure this thing'll make it to
+Miami?
+
+1-46. /349.14    352.02/     2.04 HOOT TO SEAN)
+Not that old piece of shit.
+
+1-47. /352.06    354.02      1.12 HOOT TO SEAN)
+This one.
+
+1-48. 374.13     379.14      5.01 WOMAN #1 ON STAIRWAY
+TO WOMAN #2 ON STAIRWAY)
+(OPTIONAL)
+I worked with her before.
+She's really nice.
+
+1-49. 383.05     389.02      5.13 SEAN TO MITCH, THEN MITCH TO SEAN)
+-You should have seen this
+guy....
+-A $50,000 car?
+
+1-50. 389.07     396.05      6.14 SEAN TO MITCH)
+Absolutely primo.  The husband
+restored it right down to the
+nuts and bolts.
+(primo  :  slang for
+'first-class')
+
+1-51. 396.15     401.04      4.05 MITCH TO SEAN)
+Well, when are you splitting?
+(splitting  :  i.e.,
+'leaving')
+
+1-52. 401.14     404.10/     2.12 SEAN TO MITCH)
+As soon as I tell Decker.
+
+1-53. 406.08     411.14/     5.06 MITCH TO SEAN)
+He's never going to let you
+go.  Not in a million years.
+
+1-54. 412.10     416.02/     3.08 JULIE TO SEAN)
+(over scene end)        The Gink wants to see you in his office.
+(The Gink  :  Julie's
+nickname for their boss,
+Decker - Note that
+'Gink' is slang for
+'man, especially one
+regarded as despicable')
+
+1-55. /426.01    429.10/     3.09 JULIE TO SEAN)
+Saw the car, dude.  It's dope.
+(dope  :  slang for
+'excellent')
+
+1-56. 430.01     432.00/     1.15 MITCH TO JULIE)
+He's going to get fired.
+
+1-57. /432.05    435.06/     3.01 JULIE TO MITCH)
+Decker wouldn't dare.  Sean
+rules.
+
+1-58. 435.14     439.06      3.08 MITCH TO JULIE, THEN JULIE TO MITCH)
+(over scene end)        -Ten bucks he gets canned.
+-You're on.
+(Ten bucks  :  i.e., 'I
+will wager ten dollars'
+- Note that 'bucks' is
+colloquial for
+'dollars')
+(canned  :  slang for
+'fired')
+
+1-59. /446.14    450.10/     3.12 SEAN TO DECKER, THEN DECKER TO SEAN)
+-Wanted to see me?
+-You're taking the week off?
+
+1-60. 452.00     454.04/     2.04 SEAN TO DECKER)
+My sister's getting married.
+
+1-61. /454.09    457.09      3.00 SEAN TO DECKER)
+I didn't have the bucks to go,
+but--
+
+1-62. 457.14     462.10/     4.12 DECKER TO SEAN, THEN SEAN TO DECKER)
+(over scene end)        -What's the release date of Teen Zombie?
+-September 15th.
+(Teen Zombie  :  made-up
+name of a horror movie -
+to appear in ITALICS)
+
+1-63. /462.15    465.02/     2.03 DECKER TO SEAN)
+So the trailer delivery's by
+August 1st.
+
+1-64. /465.07    469.06/     3.15 SEAN TO DECKER)
+No problem, plenty of time.  I
+got a week's vacation coming.
+
+1-65. /469.10    472.05/     2.11 DECKER TO SEAN)
+I don't take vacations.
+
+1-66. /472.10    477.00      4.06 DECKER TO SEAN)
+If I wasn't around all the
+time, this place would go to
+shit.
+(go to shit  :  vulgar
+slang for 'not
+function')
+
+1-67. 479.10     484.15      5.05 SEAN TO DECKER)
+All right.  You want to fire
+me, fine.  But I'm going.
+
+1-68. /485.10    487.04/     1.10 DECKER TO SEAN)
+One week.
+
+1-69. /487.09    492.04/     4.11 DECKER TO SEAN)
+(over scene end)        That's it.  And if that trailer isn't on
+time, you're out of here.
+
+1-70. /492.08    495.02/     2.10 SEAN TO DECKER, THEN DECKER TO SEAN)
+(over scene end)        -Thanks.
+-Fuck you.
+
+1-71. 498.06     500.06      2.00 MITCH TO SEAN)
+So?
+
+1-72. 508.06     510.12      2.06 SEAN TO MITCH & JULIE)
+See you guys in a week.
+
+LABORATORY:  THE FOLLOWING TITLE #1-73 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+1-73. 596.05     598.14/     2.09 BLONDE TO SEAN)
+Where you headed, cowboy?
+
+1-74. 599.04     601.02/     1.14 SEAN TO BLONDE)
+Miami!
+
+1-75. /601.07    604.09/     3.02 BLONDE TO SEAN)
+We're going to the Big Bug
+Dune Races!
+(Big Bug Dune Races  :
+name of a car race)
+
+LABORATORY:  THE FOLLOWING TITLE #1-76 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+1-76. /604.14    607.10/     2.12 BLONDE TO SEAN)
+It's on your way!  Check it
+out!
+
+1-77. /607.14    609.14/     2.00 SEAN TO BLONDE)
+I can't!
+
+LABORATORY:  THE FOLLOWING TITLE #1-78 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+1-78. /610.02    611.10/     1.08 BLONDE TO SEAN)
+Why not?
+
+1-79. /611.15    614.13/     2.14 SEAN TO BLONDE)
+I got kind of a tight
+schedule.
+
+LABORATORY:  THE FOLLOWING TITLE #1-80 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+1-80. /615.02    619.04/     4.02 BLONDE TO SEAN)
+Too bad.  You don't know what
+you're missing!
+
+1-81. 620.03     623.04/     3.01 SEAN TO HIMSELF)
+Holy shit!
+
+1-82. 693.01     694.09/     1.08 SEAN TO HIMSELF)
+Fuck!
+
+1-83. 707.03     712.10      5.07 MECHANIC TO SEAN)
+Ain't no damage except to the
+rim, far as I could tell.
+
+1-84. /715.02    719.01      3.15 MECHANIC TO SEAN)
+(over scene end)        I could pound it out and make it look
+good as new.
+
+1-85. 719.06     723.13/     4.07 MECHANIC TO SEAN)
+(over scene end)        It'll take me till tomorrow to get that
+size tire.
+
+1-86. /724.02    726.03/     2.01 SEAN TO MECHANIC)
+What about using the spare?
+
+1-87. 729.08     734.09/     5.01 MECHANIC TO SEAN)
+(over scene end)        The highway's shut down up ahead for the
+next 30 miles.
+
+1-88. /734.14    738.00      3.02 MECHANIC TO SEAN)
+And you got to take some back
+roads.
+
+1-89. 738.13     743.01/     4.04 MECHANIC TO SEAN)
+I wouldn't want to get caught
+out in them badlands without a
+spare.
+(them  :  the)
+
+1-90. 744.00     750.11      6.11 SEAN TO MECHANIC)
+Oh, my God.  This is great.  I
+lost my wallet.  I can't
+believe this.
+(This is great  :  Note
+sarcasm)
+
+1-91. 751.00     754.01/     3.01 MECHANIC TO SEAN)
+(over scene end)        You'll be able to pay for this, boy?
+
+1-92. /754.06    757.11      3.05 SEAN TO MECHANIC)
+Yeah.  Yeah, sure.
+
+1-93. 759.01     762.11      3.10 SEAN TO MECHANIC)
+I was saving this for my
+sister's wedding present.
+
+1-94. 765.06     769.01      3.11 SEAN TO MECHANIC)
+(over scene end)        Yeah, I can pay for the tire.
+
+1-95. 771.11     775.11      4.00 SEAN TO MECHANIC)
+This motel down here, is it
+clean?
+
+1-96. 797.06     799.03      1.13 MALE ACTOR #1 OVER TV
+ITAL                   TO MALE ACTOR #2) (OPTIONAL)
+Watch him.
+
+1-97. 800.08     802.10      2.02 MALE ACTOR #2 OVER TV
+ITAL                   TO MALE ACTOR #1) (OPTIONAL)
+I'll watch him.
+
+1-98. 809.15     812.14      2.15 MALE ACTOR #3 OVER TV
+ITAL                   TO MALE ACTOR #4) (OPTIONAL)
+Now, what good is all that?
+
+1-99. 813.10     817.02      3.08 MALE ACTOR #3 OVER TV
+ITAL                   TO MALE ACTOR #4) (OPTIONAL)
+You know, he'll come back with
+the others.
+
+1-100.      822.13     826.15     4.02  MALE ACTOR #4 OVER TV
+ITAL                   TO MALE ACTOR #3) (OPTIONAL)
+We'll get you out of town so
+fast, you won't touch ground.
+
+1-101.      827.04     830.09     3.05  MAN #1 AT HOTEL TO WOMAN #1 AT
+HOTEL)
+Shut up or you'll wake up
+everyone.
+
+1-102.      831.09     834.10/    3.01  MAN #2 AT HOTEL TO MAN #1 AT HOTEL,
+THEN MAN #3 AT HOTEL TO MAN #2
+AT HOTEL)
+-You're fucked-up.
+-Shut up!
+(fucked-up  :  vulgar
+slang for 'deranged')
+
+1-103.      841.10     844.14     3.04  MAN #1 AT HOTEL TO WOMAN #1 AT
+HOTEL,
+THEN WOMAN #1 AT HOTEL
+TO MAN #1 AT HOTEL)
+-Get inside.
+-Don't push!
+
+1-104.      971.03     973.05/    2.02  BLONDE TO SEAN) (in distorted
+voice)
+Cowboy, where you headed?
+
+1-105.      1091.05    1092.13/   1.08  SEAN TO MECHANIC)
+Thanks.
+
+1-106.      1111.04    1113.01/   1.13  NICK TO SEAN)
+Nice ride.
+(ride  :  slang for
+'car')
+
+1-107.      1115.03    1116.11/   1.08  NICK TO SEAN)
+Where you headed?
+
+1-108.      1121.10    1123.09    1.15  SEAN TO NICK)
+Florida.
+
+1-109.      1128.07    1130.02/   1.11  NICK TO SEAN)
+Going through Houston?
+
+1-110.      /1132.13   1137.14/   5.01  NICK TO SEAN)
+Well, I'm pointed that way.
+What are the chances of you...
+
+1-111.      /1138.02   1140.07    2.05  NICK TO SEAN)
+...giving me a lift?
+
+LABORATORY:  THE FOLLOWING TITLES #1-112 THROUGH #1-114 APPEAR AGAINST A
+LIGHT BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+1-112.      1142.05    1147.05/   5.00  NICK TO SEAN)
+(over scene end)        It's a long, lonely ride by yourself.
+You could use some company.
+
+1-113.      1149.02    1153.06    4.04  SEAN TO NICK)
+Look, man, I'm sorry.  It's
+not my car, all right?
+
+1-114.      1153.10    1157.14    4.04  SEAN TO NICK)
+I'm driving it for the owner.
+Part of the deal's no
+hitchhikers.
+
+1-115.      /1158.12   1160.11    1.15  NICK TO SEAN)
+Sun's killing me.
+
+1-116.      1161.14    1164.13    2.15  NICK TO SEAN)
+(over scene end)        The local dick already stopped me twice.
+(dick  :  vulgar slang
+for 'police officer')
+
+1-117.      1165.02    1168.04    3.02  NICK TO SEAN)
+Asked me to get my ass out of
+town.
+
+1-118.      1168.10    1170.10/   2.00  SEAN TO NICK)
+You'll get a ride.
+
+1-119.      /1170.14   1173.06/   2.08  NICK TO SEAN)
+Well, what if I don't?
+
+1-120.      1176.05    1180.14    4.09  NICK TO SEAN)
+(over scene end)        What if in the newspaper tomorrow, you
+read about some slacker
+roadkill...
+(roadkill  :  animal
+that has been killed on
+the road by a motor
+vehicle)
+
+1-121.      1181.02    1183.13/   2.11  NICK TO SEAN)
+...with a picture of my face
+staring back at you!
+
+LABORATORY:  THE FOLLOWING TITLES #1-122 AND #1-123 APPEAR AGAINST A LIGHT
+BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+1-122.      /1184.02   1186.06/   2.04  NICK TO SEAN)
+Could you live with that?
+
+1-123.      1189.02    1191.10    2.08  NICK TO SEAN)
+(over scene end)        I'll pay for gas!
+
+1-124.      1212.01    1214.11    2.10  SEAN TO NICK)
+All the gas until Houston?
+
+1-125.      1215.00    1217.00    2.00  NICK TO SEAN)
+Name's Nick.
+
+1-126.      1217.13    1219.10    1.13  SEAN TO NICK)
+Sean.
+
+1-127.      1221.01    1224.00    2.15  NICK TO SEAN)
+You made the right decision,
+Sean.
+
+1-128.      1239.06    1242.14/   3.08  SEAN TO NICK)
+My sister kept everything
+together after my mom died.
+
+1-129.      1243.07    1249.13    6.06  SEAN TO NICK)
+Worked after high school, went
+to college, put me through
+film school.
+
+LABORATORY:  THE FOLLOWING TITLES #1-130 THROUGH #1-135 APPEAR AGAINST A
+LIGHT BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+1-130.      1250.02    1253.02    3.00  SEAN TO NICK)
+(over scene end)        I really want to be there for her
+wedding.
+
+1-131.      1253.10    1256.06    2.12  NICK TO SEAN)
+(over scene end)        You make a lot of money in the movie biz?
+
+1-132.      1256.11    1260.13/   4.02  SEAN TO NICK)
+Not yet.  Right now I'm just
+cutting trailers.
+
+1-133.      1262.13    1264.09/   1.12  NICK TO SEAN)
+What are trailers?
+
+1-134.      1265.09    1267.06    1.13  SEAN TO NICK)
+Coming attractions.
+
+1-135.      1267.11    1272.02/   4.07  SEAN TO NICK)
+(over scene end)        I cut the trailers for Death House and
+Sorority Killers.
+(Death House  :  name of
+a horror movie - to
+appear in ITALICS)
+(Sorority Killers  :
+name of a horror movie -
+to appear in ITALICS)
+
+1-136.      /1275.00   1277.04/   2.04  NICK TO SEAN)
+Well, I can't say I saw those.
+
+LABORATORY:  THE FOLLOWING TITLES #1-137 THROUGH #1-140 APPEAR AGAINST A
+LIGHT BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+1-137.      1278.10    1282.10/   4.00  NICK TO SEAN)
+(over scene end)        Movies are at the bottom of the
+entertainment food chain for
+me.
+(Slang for 'Movies are
+my least favorite form
+of entertainment.')
+
+1-138.      /1282.14   1288.04    5.06  SEAN TO NICK)
+I want to cut features.  That
+is where the real money is.
+
+1-139.      1288.09    1291.07    2.14  SEAN TO NICK)
+I could direct some day.  I
+don't know.
+
+1-140.      1291.12    1295.11    3.15  SEAN TO NICK)
+(over scene end)        You know, my dad was a second assistant
+on E.T.
+(E.T.  :  to appear in
+ITALICS)
+
+1-141.      1296.13    1299.04    2.07  NICK TO SEAN)
+Now, I saw that one.
+
+1-142.      1299.09    1304.06/   4.13  NICK TO SEAN)
+Me and my friends scored some
+killer bud one night and we
+rented it.
+(killer  :  slang for
+'excellent')
+(bud  :  slang for
+'marijuana')
+
+1-143.      1317.12    1319.09    1.13  SEAN TO NICK)
+What are you doing?
+
+1-144.      1322.05    1323.13/   1.08  NICK TO SEAN)
+Drinking a beer.
+
+1-145.      1324.08    1328.07    3.15  NICK TO SEAN)
+Only one left and it's warm.
+If you say please, we'll share
+it.
+
+1-146.      1328.12    1330.15    2.03  SEAN TO NICK)
+Not while I'm driving.
+
+1-147.      1332.06    1334.04    1.14  NICK TO SEAN)
+That's cool.
+
+LABORATORY:  THE FOLLOWING TITLE #1-148 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+1-148.      1337.14    1340.02/   2.04  SEAN TO NICK)
+I mean both of us.
+
+1-149.      1342.00    1343.12/   1.12  NICK TO SEAN)
+But I'm not driving.
+
+LABORATORY:  THE FOLLOWING TITLE #1-150 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+1-150.      /1344.01   1347.02/   3.01  SEAN TO NICK)
+Doesn't matter.  I don't want
+to get busted.
+(busted  :  slang for
+'in trouble' - i.e., 'in
+trouble with the
+police')
+
+1-151.      1349.02    1354.04    5.02  NICK TO SEAN)
+Who is going to bust us out
+here?  I haven't even seen any
+roadkill.
+
+LABORATORY:  THE FOLLOWING TITLES #1-152 AND #1-153 APPEAR AGAINST A LIGHT
+BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+1-152.      1354.09    1358.11    4.02  SEAN TO NICK)
+(over scene end)        That's not the point.  And I don't want
+you spilling in the car.
+
+1-153.      1359.00    1362.13/   3.13  NICK TO SEAN, THEN SEAN TO NICK)
+(over scene end)        -I'm not a fucking geek!
+-Just get rid of it!
+(geek  :  slang for
+'inept person')
+
+1-154.      1365.06    1367.02    1.12  NICK TO SEAN)
+Okay.
+
+1-155.      1403.02    1405.06    2.04  NICK TO SEAN)
+You said get rid of it.
+
+1-156.      1430.09    1432.13    2.04  NICK TO SEAN)
+(over scene end)        Still pissed?  You won't have to pay.
+(pissed  :  slang for
+'angry')
+(pay :  i.e., 'pay for
+the ticket')
+
+1-157.      1433.02    1435.11    2.09  SEAN TO NICK) (sarcastically)
+You ever hear of a warrant?
+
+1-158.      /1436.05   1439.00    2.11  NICK TO SEAN)
+(over scene end)        You don't even live in this state.
+
+1-159.      1439.05    1443.05/   4.00  NICK TO SEAN) (sarcastically)
+(over scene end)        Unless you're worried about being
+extradited for littering.
+
+1-160.      /1443.09   1446.11    3.02  NICK TO SEAN)
+He didn't even bust you for
+the open container.
+(bust you  :  slang for
+'cite you')
+
+1-161.      1447.00    1449.10    2.10  SEAN TO NICK)
+Don't push it, all right?
+(push it  :  i.e.,
+'anger me')
+
+___________________________________________________________________________
+___________________
+
+LAST FRAME OF PICTURE IS 1452.05
+
+END OF REEL 1AB
+
+LABORATORY:   0.00 AT START MARK
+
+16.09 = 1ST SCENE END
+
+2-1.  15.14 18.08      2.10  NICK TO SEAN)
+(over scene end)        Man, you got to lighten up.
+(lighten up  :  slang
+for 'relax')
+
+2-2.  31.02 33.09/     2.07  KIT TO SEAN & NICK)
+How you boys doing this
+evening?
+
+2-3.  /33.14     35.06 1.08  SEAN TO KIT)
+Fine.
+
+2-4.  36.09 38.01/     1.08  SEAN TO KIT)
+You?
+
+2-5.  /38.05     43.02/      4.13 PEN TO SEAN & NICK)
+(over scene end)        Son of a bitch died on us just as we
+pulled in to take a piss.
+
+2-6.  43.12 46.01/     2.05  PEN TO SEAN & NICK)
+I think the battery's gone
+dead.
+
+2-7.  47.09 49.06/     1.13  KIT TO SEAN & NICK)
+We need a jump.
+(jump  :  short for
+'jump-start' -  to start
+the engine of a motor by
+using a booster cable
+connected to the
+battery)
+
+2-8.  51.06 53.09/     2.03  SEAN TO KIT)
+I don't have any cables.
+(cables  :  short for
+'jumper cables')
+
+2-9.  /53.14     56.06/      2.08 PEN TO SEAN)
+That's okay.  We got some.
+
+2-10. /56.11     59.14/      3.03 KIT TO SEAN)
+So, what do you say?
+(what do you say  :
+i.e., 'are you going to
+help us')
+
+2-11. 61.02 64.01      2.15  SEAN TO KIT)
+Yeah, sure.  Let's do it.
+
+2-12. 65.08 70.02      4.10  SEAN TO NICK)
+You want to pop the hood?
+
+2-13. 70.07 74.06      3.15  SEAN TO NICK)
+(over scene end)        Get in and turn it over when I tell you.
+(turn it over  :  i.e.,
+'turn on the ignition')
+
+2-14. 81.06 83.14/     2.08  KIT TO SEAN & NICK)
+We really appreciate your
+help.
+
+2-15. 85.05 89.04/     3.15  KIT TO SEAN & NICK)
+I'd sure hate to get stuck out
+here in this...
+
+2-16. 90.12 92.06/     1.10  KIT TO SEAN & NICK)
+...shit-hole.
+(shit-hole  :  vulgar
+slang for 'despicable
+place')
+
+2-17. /94.05     97.10 3.05  PEN TO SEAN)
+How much you pay for a ride
+like that?
+(ride  :  slang for
+'car')
+
+2-18. 99.01 102.14/    3.13  SEAN TO PEN, THEN PEN TO SEAN)
+-I don't know.  It's not mine.
+-Whose is it?
+
+2-19. /103.02    105.02      2.00 KIT TO PEN)
+Shut up, Pen.
+
+2-20. 105.06     107.15      2.09 KIT TO TEDDY)
+(over scene end)        Kick it over, Teddy.
+(Kick it over  :  i.e.,
+'Turn on the engine')
+
+2-21. 109.11     111.10/     1.15 TEDDY TO HERSELF)
+Fuck.
+
+2-22. 118.07     120.06      1.15 KIT TO TEDDY)
+(over scene end)        Again.
+
+2-23. 125.01     126.09/     1.08 PEN TO GROUP)
+Fucking A.
+(Vulgar slang
+exclamation of marvel)
+
+2-24. 132.13     135.00      2.03 SEAN TO KIT)
+You might want to...
+
+2-25. /135.08    139.12      4.04 SEAN TO KIT, THEN KIT TO SEAN)
+-...keep it running for a
+while.
+-We'll do that.
+
+2-26. 151.15     156.10      4.11 SEAN TO GROUP)
+(over scene end)        Can I ask you guys, were you in Tenopah
+last night?
+(Tenopah  :  city in
+Arizona)
+
+2-27. 158.10     163.02/     4.08 KIT TO SEAN)
+No.  We were in Kingman last
+night.
+(Kingman  :  city in
+Northwest Arizona)
+
+2-28. 165.08     167.12/     2.04 SEAN TO KIT)
+Thought I saw your car at
+the...
+
+2-29. /168.01    170.04      2.03 SEAN TO KIT)
+...motel there.
+
+2-30. 170.09     174.06/     3.13 KIT TO SEAN)
+No, must've been another one
+just like it.
+
+2-31. 174.13     178.14      4.01 SEAN TO KIT)
+Yeah.  Yeah.  Guess so.
+
+2-32. /193.14    197.11      3.13 CYM TO SEAN & NICK)
+You hondos got any money you
+could spare?
+(hondos  :  slang for
+'fellows')
+
+2-33. 199.01     201.01      2.00 SEAN TO CYM)
+Not really.
+
+2-34. 202.10     204.02/     1.08 CYM TO SEAN)
+You sure?
+
+2-35. 204.09     207.10/     3.01 KIT TO CYM)
+Don't be a bitch.  You heard
+him.
+
+2-36. 210.04     213.00/     2.12 CYM TO KIT)
+No harm in asking, right?
+
+2-37. 231.07     235.05/     3.14 CYM TO KIT, THEN KIT TO CYM)
+-The one riding shotgun's a
+hunter.
+-I know.
+(riding shotgun  :
+i.e., 'sitting in the
+passenger seat')
+(hunter  :  i.e.,
+'vampire hunter')
+
+2-38. 236.03     239.04      3.01 TEDDY TO KIT)
+(over scene end)        Then why did you let him go?
+
+2-39. 239.14     243.10      3.12 KIT TO TEDDY)
+(over scene end)        How many times do I have to tell you.
+
+2-40. 243.15     248.00      4.01 KIT TO TEDDY)
+There's a time and a place...
+
+2-41. 248.10     252.01      3.07 KIT TO TEDDY)
+...for everything.
+
+2-42. 260.01     262.02      2.01 MAN IN BAR TO WOMAN IN BAR)
+I'm buying.
+
+2-43. 262.14     265.12      2.14 WOMAN IN BAR TO MAN IN BAR)
+I got to go home.
+
+2-44. 276.15     282.04/     5.05 SEAN TO NICK, THEN NICK TO SEAN)
+-How's that steak?
+-It's good.  You want some?
+
+2-45. 282.12     284.06/     1.10 NICK TO SEAN)
+You sure?
+
+2-46. /284.11    289.01/     4.06 SEAN TO NICK)
+If the thing was any rarer,
+it'd still be grazing
+somewhere.
+
+2-47. 292.15     296.09      3.10 NICK TO SEAN)
+You eating like that because
+you're tapped out?
+(like that  :  i.e., 'an
+inexpensive sandwich')
+(tapped out  :  i.e.,
+'almost out of money')
+
+2-48. 297.02     302.08/     5.06 SEAN TO NICK)
+Yeah.  I'm tapped out.  Lost
+my wallet, credit cards,
+everything.
+
+2-49. 302.14     308.08/     5.10 SEAN TO NICK)
+I have barely enough money to
+get to my sister's wedding and
+back.
+
+2-50. 316.06     319.05      2.15 SEAN TO NICK)
+(over scene end)        So, what's your deal?  What do you do?
+(what's your deal  :
+slang for 'what do you
+do')
+
+2-51. 319.14     322.04/     2.06 NICK TO SEAN)
+As little as possible.
+
+2-52. 323.03     326.14/     3.11 SEAN TO NICK)
+Yeah, but you got to make
+money.  You work?
+
+2-53. 327.12     329.04/     1.08 NICK TO SEAN)
+I cruise.
+
+2-54. /329.09    334.10      5.01 NICK TO SEAN)
+I find something to do when I
+need to.  Kind of like the day-
+to-day thing.
+
+2-55. 335.04     341.02      5.14 SEAN TO NICK)
+Yeah, but what about the
+future?  What do you want to
+be doing, say...
+
+2-56. 341.13     344.02/     2.05 SEAN TO NICK)
+...ten years from now?
+
+2-57. 345.09     349.01/     3.08 NICK TO SEAN)
+I don't give a shit.  I could
+be dead tomorrow.
+
+2-58. 350.13     354.07/     3.10 SEAN TO NICK)
+If everybody had your
+attitude, we'd really be
+fucked.
+
+2-59. /354.11    356.02/     1.07 NICK TO SEAN)
+We are fucked.
+
+2-60. 357.14     360.09/     2.11 NICK TO SEAN)
+Look at the world we
+inherited.
+
+2-61. /360.14    365.14/     5.00 NICK TO SEAN)
+We're a bunch of fast-food
+munching MTV freaks humping
+the great American dream.
+
+2-62. 367.10     369.04/     1.10 NICK TO SEAN)
+You finishing that pie?
+
+2-63. 373.02     376.04      3.02 SEAN TO NICK)
+No.  No, I guess I'm not.
+
+2-64. /377.06    382.10      5.04 NICK TO SEAN)
+(over scene end)        The generation before us sold their
+innocence for 200 satellite
+stations.
+
+2-65. 382.15     385.09/     2.10 NICK TO SEAN)
+It's been downhill ever since.
+
+2-66. /385.14    391.06/     5.08 NICK TO SEAN)
+They had Mickey Mouse, Easy
+Rider and the Beatles.
+(Easy Rider  :  1969
+movie - to appear in
+ITALICS)
+
+2-67. /391.10    396.02/     4.08 NICK TO SEAN)
+We got South Park, The Blair
+Bitch and Ricky Martin.
+(South Park  :  1997 to
+present cable TV cartoon
+about four foul-mouthed
+3rd grade students - to
+appear in ITALICS)
+(The Blair Bitch  :
+note variation on 'The
+Blair Witch' from the
+1999 film 'The Blair
+Witch Project' - to
+appear in ITALICS)
+
+2-68. /396.07    401.02/     4.11 NICK TO SEAN)
+All right, they had "Be here
+now!"  We got "Shit happens."
+(Be here now  :  i.e.,
+'live in the moment' -
+note that this was a
+slogan popular among
+youths in the late
+1960s)
+
+2-69. 402.00     405.10      3.10 NICK TO SEAN)
+(over scene end)        If that doesn't put things in
+perspective, what does?
+
+2-70. 405.15     412.02      6.03 NICK TO SEAN)
+(over scene end)        We're Microsoft Neanderthals addicted to
+surfing netland, shitting in
+our nests.
+
+2-71. 412.07     417.14/     5.07 NICK TO SEAN)
+Every time I think about
+giving a rat's ass, I just
+picture Monica...
+(giving a rat's ass  :
+vulgar slang for
+'caring')
+(Monica  :  i.e.,
+'Monica Lewinsky')
+
+2-72. /418.02    421.06      3.04 NICK TO SEAN)
+...making millions from
+sucking Bill's little red
+rooster.
+(Bill  :  Bill Clinton)
+(little red rooster  :
+i.e., 'penis')
+
+2-73. 421.10     425.02      3.08 NICK TO SEAN)
+Just rockets me right back
+into reality.
+
+2-74. 429.06     431.06/     2.00 SEAN TO NICK)
+You are really depressing.
+
+2-75. 431.15     435.04/     3.05 SEAN TO NICK, THEN NICK TO SEAN)
+-You know that, right?
+-Yes.
+
+2-76. /435.09    437.01      1.08 NICK TO SEAN)
+Here.
+
+2-77. 437.15     442.09      4.10 NICK TO SEAN)
+My treat.  You pay, I'm going
+to piss.
+
+2-78. 519.14     523.02/     3.04 DRIVER TO MEGAN)
+I told you, miss.  This is a
+private tour bus.
+
+2-79. 524.07     530.06/     5.15 DRIVER TO MEGAN)
+If you want to go somewhere,
+buy yourself a ticket.
+
+2-80. /530.10    532.10      2.00 DRIVER TO MEGAN)
+For a regular bus.
+
+2-81. 543.15     547.12      3.13 WAITRESS TO MEGAN)
+(over scene end)        Hey, you owe me for the coffee, honey!
+
+2-82. 550.00     551.12/     1.12 WAITRESS TO MEGAN)
+What's wrong with you?
+
+2-83. /552.00    553.08      1.08 NICK TO SEAN)
+What's going on?
+
+2-84. 555.02     556.10/     1.08 SEAN TO NICK)
+I don't know.
+
+2-85. 557.00     558.10/     1.10 WAITRESS TO DRIVER)
+What is wrong with her?
+
+2-86. 559.06     562.10/     3.04 DRIVER TO WAITRESS)
+I think she's stoned, and flat-
+ass broke too.
+
+2-87. 563.06     567.02/     3.12 WAITRESS TO DRIVER)
+Great.  Who's going to pay me
+for this?
+(Great  :  Note sarcasm)
+
+2-88. 568.02     569.10/     1.08 NICK TO WAITRESS)
+I will.
+
+2-89. 573.14     576.06/     2.08 NICK TO WAITRESS,
+THEN WAITRESS TO NICK)
+-Here you go.
+-If she's a friend of yours...
+
+2-90. /576.10    580.10      4.00 WAITRESS TO NICK)
+...get her some help before
+the sheriff sees her around
+here.
+
+2-91. 583.06     584.14/     1.08 NICK TO MEGAN)
+It's okay.
+
+2-92. 589.00     592.12/     3.12 NICK TO MEGAN)
+I know what's wrong with you
+and I want to help you.
+
+2-93. /593.01    595.02/     2.01 SEAN TO NICK)
+Easy.  You're scaring her.
+
+2-94. /595.07    597.00/     1.09 NICK TO SEAN)
+I know what I'm doing.
+
+2-95. /597.05    599.02/     1.13 SEAN TO NICK)
+I'm serious.  Take it easy.
+
+2-96. /599.07    601.12/     2.05 NICK TO SEAN)
+I said I know what I'm doing.
+
+2-97. /602.01    604.13      2.12 SEAN TO NICK)
+(over scene end)        Look at her.  She's shaking.
+
+2-98. 606.01     607.09/     1.08 NICK TO SEAN)
+Get the car!
+
+2-99. 608.13     610.14/     2.01 SEAN TO NICK)
+I can't get involved in this.
+
+2-100.      /611.03    613.08/    2.05  NICK TO SEAN)
+Get the fucking car, Sean!
+
+2-101.      /613.13    615.12     1.15  SEAN TO HIMSELF)
+Fuck!
+
+2-102.      /617.06    621.13/    4.07  NARRATIVE TITLE) (of sign)
+
+THE PALMS INN
+VACANCY
+
+2-103.      /630.04    637.10     7.06  DESK CLERK TO SEAN)
+(over scene end)        Well, I can let you have number six.
+It's 45 bucks.
+
+2-104.      /639.00    643.04/    4.04  SEAN TO DESK CLERK,
+(over scene end)        THEN DESK CLERK TO SEAN)
+-Yeah, that's fine.
+-In advance.
+
+2-105.      /645.01    649.00     3.15  DESK CLERK TO SEAN)
+I'm tired of you dune racers
+fucking the place up.
+
+2-106.      649.05     655.13/    6.08  DESK CLERK TO SEAN)
+So no funny business.  Or I'll
+boot your ass out.
+Understood?
+
+2-107.      /657.00    658.05/    1.05  SEAN TO DESK CLERK)
+Yes, sir.
+
+2-108.      661.15     666.06/    4.07  SEAN TO NICK)
+(over scene end)        Maybe she was trying to get on that bus
+to go back home.
+
+2-109.      /666.11    671.10     4.15  NICK TO SEAN)
+Get my bags in the car and
+then get as much ice as you
+can.
+
+2-110.      676.06     680.14/    4.08  SEAN TO NICK)
+What do you mean you know
+what's wrong with her?
+
+2-111.      /681.02    684.06     3.04  NICK TO SEAN)
+Get my stuff and I'll tell you
+everything.
+
+2-112.      774.13     780.00     5.03  SEAN TO NICK)
+This is all the ice I could--
+What the fuck are you doing?
+
+2-113.      780.05     783.09     3.04  NICK TO SEAN)
+(over scene end)        Her blood's boiling up.  We got to cool
+her down.
+
+2-114.      783.14     786.10/    2.12  SEAN TO NICK)
+Maybe we should get her a
+doctor.
+
+2-115.      787.04     790.00/    2.12  NICK TO SEAN)
+I'll need a lot more ice than
+that.
+
+2-116.      790.07     794.02/    3.11  NICK TO SEAN)
+Get back to that restaurant
+and get more ice.
+
+2-117.      /794.07    797.09     3.02  SEAN TO NICK)
+Not until you tell me what's
+going on.
+
+2-118.      800.12     802.05/    1.09  NICK TO SEAN)
+She's infected.
+
+2-119.      /802.10    805.00/    2.06  SEAN TO NICK)
+"Infected"?  Infected how?
+
+2-120.      812.15     815.06     2.07  SEAN TO NICK)
+(over scene end)        What the hell is all that shit?
+
+2-121.      816.12     822.14     6.02  NICK TO SEAN)
+I swear to God, man.  I will
+drop you a clue, I promise
+you.
+(drop you a clue  :
+slang for 'tell you')
+
+2-122.      823.02     825.12/    2.10  NICK TO SEAN)
+But I need the fucking ice.
+
+2-123.      869.15     873.14/    3.15  BLONDE TO MERK)
+Goddamn it, Merk.  You
+asshole.
+
+2-124.      /874.03    878.00     3.13  PRIDE TO MERK)
+(over scene end)        Put that thing away before you kill
+somebody.
+
+2-125.      /880.05    883.08/    3.03  MERK TO GROUP)
+(over scene end)        Check that shit out!
+
+2-126.      /883.13    886.08/    2.11  MERK TO GROUP)
+I blasted that motherfucker
+clean!
+
+2-127.      /886.13    890.03     3.06  MERK TO PRIDE)
+That's right!  Toss me another
+empty one.
+
+2-128.      890.08     895.13/    5.05  PRIDE TO MERK)
+Put the goddamn gun away
+before I kick your skinny
+little ass.
+
+2-129.      /896.02    902.10/    6.08  MERK TO PRIDE) (sarcastically)
+I am scared shitless.  I'm
+shaking all over the place,
+man.
+
+2-130.      903.00     906.14/    3.14  PRIDE TO MERK)
+You're going to shoot your
+dick off.
+
+2-131.      907.06     909.00/    1.10  BLONDE TO MERK)
+Wouldn't take much.
+(Note implication that
+Merk has a small penis)
+
+2-132.      /911.06    914.05/    2.15  MERK TO BLONDE)
+Beg for it.  Bitch.
+(Beg for it  :  i.e., 'I
+know you want my penis')
+
+2-133.      920.15     923.04/    2.05  TEDDY TO GROUP)
+We saw the lights.
+
+2-134.      924.03     929.12/    5.09  TEDDY TO GROUP)
+Wondered if you guys could
+spare a few beers?
+
+2-135.      /930.02    931.10/    1.08  MERK TO TEDDY)
+We?
+
+2-136.      /931.14    933.13/    1.15  TEDDY TO MERK)
+My friends and me.
+
+2-137.      /938.06    941.06/    3.00  PRIDE TO HIMSELF)
+Oh, shit.
+
+2-138.      /941.10    943.04     1.10  KIT TO GROUP)
+So...
+
+2-139.      944.07     947.08     3.01  KIT TO GROUP)
+(over scene end)        ...you got any beers or what?
+
+2-140.      /948.12    950.14/    2.02  PRIDE TO KIT)
+This is a private party.
+
+2-141.      951.07     953.12/    2.05  KIT TO PRIDE)
+Sorry.
+
+2-142.      954.14     956.09/    1.11  KIT TO PRIDE)
+We didn't know that.
+
+2-143.      958.01     962.00/    3.15  RACER TO KIT)
+Well, now you do.
+
+2-144.      962.06     968.13/    6.07  RACER TO KIT)
+So just motivate your ass on
+out of here before you really
+piss somebody off...
+
+2-145.      /969.02    972.13/    3.11  RACER TO KIT)
+...and end up with my boot in
+your ass.
+
+2-146.      976.09     979.04/    2.11  KIT TO RACER)
+Just one beer?
+
+2-147.      986.06     989.06     3.00  RACER TO MOSE)
+(over scene end)        Mose, toss me a cold one.
+(cold one  :  slang for
+'cold beer')
+
+2-148.      989.11     991.15     2.04  MOSE TO RACER)
+You got it, bro.
+
+2-149.      1018.13    1021.02    2.05  RACER TO KIT)
+How's that for you?
+
+2-150.      1023.06    1027.02    3.12  KIT TO RACER)
+How about another for my
+friend?
+
+2-151.      1034.14    1037.08    2.10  MOSE TO KIT)
+Uno mas coming up.
+(Uno mas  :  Spanish for
+'One more' - To appear
+in ITALICS)
+
+2-152.      1060.06    1061.14/   1.08  MERK TO HIMSELF)
+(over scene end)        Oh, shit!
+
+2-153.      1112.12    1114.06    1.10  NICK TO MEGAN)
+Shit!
+
+2-154.      1115.02    1118.13/   3.11  NICK TO MEGAN)
+Calm!  You've got to calm
+down!
+
+2-155.      1122.06    1126.06/   4.00  NICK TO MEGAN)
+Calm down!  Down!  Calm down!
+
+2-156.      1127.13    1129.13    2.00  NICK TO MEGAN)
+Relax, relax!
+
+2-157.      /1132.02   1135.00    2.14  NICK TO MEGAN)
+You're safe.  You are safe!
+
+2-158.      1140.05    1142.05/   2.00  NICK TO MEGAN)
+Quiet.
+
+2-159.      /1142.10   1144.02/   1.08  SEAN TO NICK)
+What's happening to her?
+
+2-160.      1147.13    1153.05/   5.08  NICK TO SEAN)
+Help me hold her!  She's going
+to hurt herself!
+
+2-161.      /1153.10   1156.15    3.05  NICK TO SEAN)
+Drop the fucking box and get
+over here!
+
+2-162.      1161.05    1164.10    3.05  NICK TO SEAN)
+Give me her arm!  Shit!
+
+2-163.      1167.12    1170.12    3.00  DESK CLERK TO GROUP)
+What's going on in there?
+
+2-164.      1177.07    1180.13    3.06  DESK CLERK TO NICK)
+What the hell are you freaks
+doing in there?
+
+2-165.      1181.02    1185.05/   4.03  NICK TO DESK CLERK,
+THEN DESK CLERK TO NICK)
+-Nothing, my sister had a
+nightmare.
+-Bullshit.
+
+2-166.      /1185.10   1188.12    3.02  DESK CLERK TO NICK)
+Better not be something funny
+going on.
+
+2-167.      1189.01    1191.09/   2.08  DESK CLERK TO NICK)
+I don't run that kind of
+place.
+
+2-168.      /1191.14   1195.13    3.15  NICK TO DESK CLERK)
+Nothing's going on, I swear.
+My sister had a bad dream.
+
+2-169.      1196.02    1200.06    4.04  DESK CLERK TO NICK)
+I want you out of here come
+morning.  Understood?
+
+2-170.      1200.11    1203.05    2.10  NICK TO DESK CLERK)
+That's not a problem.
+
+2-171.      1211.06    1213.10    2.04  NICK TO SEAN)
+You got to hold her tight.
+
+2-172.      1215.12    1217.12/   2.00  SEAN TO NICK)
+What's that?  What are you
+doing?
+
+2-173.      /1218.01   1220.10/   2.09  NICK TO SEAN)
+Don't worry. I've done this
+before.
+
+2-174.      1241.03    1245.02/   3.15  NICK TO SEAN, THEN SEAN TO NICK)
+-She's got a blood disorder.
+-How do you know that?
+
+2-175.      1246.00    1247.10/   1.10  NICK TO SEAN)
+Trust me, I know.
+
+2-176.      1248.04    1250.04/   2.00  SEAN TO NICK)
+What kind of disorder?
+
+2-177.      /1250.09   1252.12    2.03  NICK TO SEAN)
+She's got a virus.
+
+2-178.      1253.06    1257.02/   3.12  NICK TO SEAN)
+It can be slowed and
+controlled by drugs, but only
+for a while.
+
+2-179.      1259.04    1264.05    5.01  NICK TO SEAN)
+The only real cure is to find
+the original source of
+infection...
+
+2-180.      /1265.10   1267.06    1.12  NICK TO SEAN)
+...and kill it.
+
+2-181.      1272.12    1277.02    4.06  NICK TO SEAN)
+Now, I'm about to lay some
+heavy shit on you.
+(lay some heavy shit on
+you  :  vulgar slang for
+'give you some
+frightening
+information')
+
+2-182.      1277.10    1282.01    4.07  NICK TO SEAN)
+You'll probably bail, but I am
+totally played out...
+(bail  :  slang for
+'leave')
+(played out  :  slang
+for 'exhausted')
+
+2-183.      1282.14    1285.06    2.08  NICK TO SEAN)
+...and I need your help.
+
+2-184.      1291.06    1293.13    2.07  NICK TO SEAN)
+What happened to your hand?
+
+2-185.      1299.01    1301.06    2.05  SEAN TO NICK)
+She must've...
+
+2-186.      1304.13    1307.09/   2.12  SEAN TO NICK)
+...she must've bit me.
+
+2-187.      1375.11    1377.13/   2.02  DESK CLERK TO GROUP)
+What the hell are you doing--
+
+2-188.      1478.02    1481.05    3.03  SEAN TO NICK)
+I had the weirdest dreams.
+
+2-189.      1485.05    1487.05/   2.00  SEAN TO NICK)
+There was all this blood.
+
+2-190.      1492.04    1494.11    2.07  SEAN TO NICK)
+I was hanging with these....
+(hanging  :  slang for
+'idly spending time')
+
+2-191.      1500.06    1505.07/   5.01  SEAN TO NICK)
+I was way back in time.  It
+was pretty weird shit.
+
+2-192.      1508.10    1510.12    2.02  NICK TO SEAN)
+How do you feel?
+
+2-193.      1512.13    1514.13    2.00  SEAN TO NICK)
+Wiped out.
+
+2-194.      1516.04    1518.14/   2.10  SEAN TO NICK)
+Like I've been shrooming or
+something.
+(shrooming  :  slang for
+'taking magic mushrooms'
+- note that 'magic
+mushrooms' are a
+hallucinogenic drug)
+
+2-195.      1520.12    1522.13/   2.01  NICK TO SEAN)
+You were bit by a vampire.
+
+2-196.      1524.03    1526.05    2.02  SEAN TO NICK) (sarcastically)
+Yeah, right.
+
+2-197.      1534.09    1537.13    3.04  SEAN TO NICK)
+(over scene end)        You know, I was thinking maybe...
+
+2-198.      1541.00    1544.14/   3.14  SEAN TO NICK)
+...maybe I should drop you
+both off in San Antonio.
+
+2-199.      1548.14    1551.09    2.11  NICK TO SEAN)
+Come on, I'll show you
+something.
+(Come on  :  i.e., 'Come
+with me')
+
+___________________________________________________________________________
+___________________
+
+LAST FRAME OF PICTURE IS 1552.11
+
+END OF REEL 2AB
+
+LABORATORY:  0.00 AT START MARK
+
+18.03 = 1ST SCENE END
+
+3-1.  25.03 27.14      2.11  SEAN TO NICK)
+Is that who I think it is?
+(i.e., 'Is that Pen?')
+
+3-2.  /43.08     45.12 2.04  SEAN TO NICK)
+What the fuck is he doing?
+
+3-3.  66.02 68.05/     2.03  SEAN TO NICK)
+What are you doing with that?
+
+3-4.  69.00 70.11/     1.11  NICK TO PEN)
+(over scene end)        Wake up, fuck face.
+(fuck face  :  vulgar
+slang for 'despicable
+man')
+
+3-5.  73.13 76.08/     2.11  SEAN TO NICK)
+Jesus Christ.  You fucking
+killed him.
+
+3-6.  /76.13     78.06 1.09  NICK TO SEAN)
+I doubt it.
+
+3-7.  89.12 92.06/     2.10  NICK TO SEAN, THEN SEAN TO NICK)
+(over scene end)        -Open the trunk.
+-Why?
+
+3-8.  /92.10     95.05/      2.11 NICK TO SEAN)
+Just open the trunk.  You'll
+find out.
+
+3-9.  105.12     109.12/     4.00 SEAN TO NICK, THEN NICK TO SEAN)
+(over scene end)        -What am I supposed to be looking for?
+-Nothing in there?
+
+3-10. /110.01    112.13/     2.12 SEAN TO NICK, THEN NICK TO SEAN)
+(over scene end)        -No, nothing but an old tarp.
+-What?
+
+3-11. 122.00     123.10/     1.10 SEAN TO NICK)
+(over scene end)        Get her off of me!
+
+LABORATORY:  THE FOLLOWING TITLES #3-12 AND #3-13 APPEAR AGAINST A LIGHT
+BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+3-12. 133.02     134.15      1.13 NICK TO TEDDY)
+Bitch.
+
+3-13. 151.12     154.06      2.10 SEAN TO NICK)
+Oh, shit.
+
+3-14. 168.12     171.00      2.04 NICK TO SEAN)
+Now do you believe me?
+
+LABORATORY:  THE FOLLOWING TITLE #3-15 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+3-15. /176.02    179.02      3.00 NARRATIVE TITLE) (of sign)
+
+THE PALMS INN
+
+3-16. 216.06     219.14      3.08 PEN TO HIMSELF)
+Oh, shit.
+
+3-17. 220.02     225.01      4.15 PEN TO HIMSELF)
+Shit.  Shit.  Fuck!
+
+3-18. 225.06     230.09      5.03 PEN TO HIMSELF)
+Fuck!  Fuck!  Fuck!  Oh, you
+got to be shitting me!
+(you...me  :  vulgar
+slang for 'this can't be
+happening')
+
+3-19. 242.09     245.04/     2.11 KIT TO PEN, THEN PEN TO KIT)
+(over scene end)        -What?
+-We got a problem.
+
+3-20. /245.09    249.13      4.04 CYM TO KIT)
+That motherfucker overslept
+again!
+
+3-21. 273.02     276.04      3.02 PEN TO KIT)
+(over scene end)        Oh, we got to get out of here.
+
+3-22. /279.04    281.14      2.10 PEN TO KIT)
+What you want to do about her?
+
+3-23. 284.09     289.10/     5.01 PEN TO KIT)
+Okey-dokey.  But it sure seems
+like a waste.
+(Okey-dokey  :  i.e.,
+'Okay, I'll kill her' -
+Note that 'Okey-dokey'
+is colloquial for
+'Okay')
+
+3-24. 366.04     368.01      1.13 SEAN TO HIMSELF)
+Oh, God.
+
+3-25. 368.06     372.02/     3.12 NICK TO SEAN, THEN SEAN TO NICK)
+-You okay?
+-Fuck no, I'm not okay.
+
+3-26. /372.07    375.10/     3.03 NICK TO SEAN)
+You got to take the drugs to
+slow the virus.
+
+3-27. /375.14    379.02/     3.04 NICK TO SEAN, THEN SEAN TO NICK)
+-If you don't, you'll turn.
+-No drugs.
+(turn  :  i.e., 'turn
+into a vampire')
+
+3-28. /379.07    381.06      1.15 NICK TO SEAN)
+You're not listening to me.
+
+3-29. 381.11     387.01/     5.06 NICK TO SEAN)
+If you turn before we kill the
+source of the infection, you
+are fucked!
+(fucked  :  vulgar slang
+for 'dead')
+
+3-30. /387.06    390.10/     3.04 SEAN TO NICK)
+Who are you?  How do you know
+this shit?
+
+3-31. /390.14    395.12/     4.14 NICK TO SEAN, THEN SEAN TO NICK)
+-That's not important.
+-Fuck you, it's not important!
+
+3-32. /396.00    398.06/     2.06 NICK TO SEAN)
+(over scene end)        You got to trust me, all right!
+
+3-33. /398.10    402.01/     3.07 SEAN TO NICK)
+That got me in this shit in
+the first place!
+
+3-34. /402.06    405.02/     2.12 NICK TO SEAN)
+(over scene end)        You want to know who I am?!  Take a look
+at that!
+
+3-35. /407.05    409.09/     2.04 NICK TO SEAN)
+I was bitten a year ago.
+
+3-36. 412.07     414.08/     2.01 NICK TO SEAN)
+Some bitch at a party.
+
+3-37. /414.13    420.15      6.02 NICK TO SEAN)
+For two days, I was sick as a
+dog, just like you.  So I went
+to the hospital.
+(sick as a dog  :
+colloquial for 'very
+sick')
+
+LABORATORY:  THE FOLLOWING TITLE #3-38 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+3-38. 422.00     425.15      3.15 NICK TO SEAN)
+Lucky for me, one of the
+interns had been bitten...
+
+3-39. /426.10    428.15      2.05 NICK TO SEAN)
+...and he knew about the
+drugs.
+
+LABORATORY:  THE FOLLOWING TITLES #3-40 THROUGH #3-46 APPEAR AGAINST A
+LIGHT BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+3-40. 430.00     435.13      5.13 NICK TO SEAN)
+(over scene end)        I think the vamp who bit this girl is the
+one I traced my infection back
+to.
+(vamp  :  short for
+'vampire')
+
+3-41. 436.15     438.13/     1.14 NICK TO SEAN)
+I tracked him down here.
+
+3-42. /439.02    444.00      4.14 SEAN TO NICK)
+(over scene end)        So which one is it?  Who is it?  The
+poseur or the retard?
+(poseur  :  one who
+affects a particular
+attitude, character, or
+manner to impress others
+- referring to Kit)
+(retard  :  offensive
+slang for 'stupid
+person' - referring to
+Pen)
+
+3-43. 444.05     446.06      2.01 NICK TO SEAN)
+It's the poseur.
+
+3-44. 447.04     450.15      3.11 NICK TO SEAN)
+The retard's not a vamp.  He's
+their day driver.
+
+3-45. 451.04     454.02      2.14 NICK TO SEAN)
+You know the Penthouse pet
+from hell?
+(Note reference to Cym)
+
+3-46. 454.06     459.01/     4.11 NICK TO SEAN)
+She's a full-blown feeder, but
+nearly turned.  You can see it
+in her eyes.
+(feeder  :  i.e., 'blood
+drinker')
+
+3-47. /459.06    462.14/     3.08 SEAN TO NICK)
+So why didn't we kill the
+fucker when we had a chance?
+
+LABORATORY:  THE FOLLOWING TITLE #3-48 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+3-48. 463.08     467.10/     4.02 NICK TO SEAN)
+Because you can only kill the
+Forsaken on hallowed ground.
+
+3-49. 469.07     472.03      2.12 SEAN TO NICK)
+What the hell's "the
+Forsaken"?
+
+3-50. 472.10     477.04/     4.10 SEAN TO NICK)
+What do you mean by hallowed
+ground?  Like a church?
+
+LABORATORY:  THE FOLLOWING TITLE #3-51 APPEARS AGAINST A LIGHT BACKGROUND.
+CHECK PRINT FOR PROPER POSITIONING.
+
+3-51. 485.11     491.13      6.02 PEN TO KIT)
+Tell that bitch to shut the
+fuck up!  I can't hear what
+you're saying!
+(that bitch  :  i.e.,
+'Cym')
+
+3-52. 496.12     502.02      5.06 PEN TO KIT)
+Fucking A, they barbecued her
+fucking ass!  That Teddy girl
+was right, man!
+(barbequed her fucking
+ass  :  vulgar slang for
+'killed her' - i.e.,
+'killed Teddy')
+
+3-53. 502.07     506.13/     4.06 PEN TO KIT)
+You should have whacked that
+hunter when you had the
+chance!
+
+3-54. 513.00     517.14/     4.14 PEN TO KIT)
+All right, calm down.  I
+didn't mean nothing by it.
+
+3-55. 523.07     526.02      2.11 PEN TO HIMSELF)
+Shit.
+
+3-56. /529.05    533.05      4.00 PEN TO KIT)
+I said, "shit."  We got
+company.
+
+3-57. 552.14     556.02      3.04 PEN TO KIT)
+I can handle it.  No sweat.
+(No sweat  :  Slang for
+'It isn't a problem')
+
+3-58. 559.06     562.11      3.05 PATROLMAN TO PEN)
+May I see your license and
+registration?
+
+3-59. 569.10     573.01      3.07 PATROLMAN TO PEN)
+(over scene end)        You know you were going 95 miles an hour?
+
+3-60. 573.06     578.08/     5.02 PEN TO PATROLMAN)
+No, sure didn't.  Kind of just
+got away from me.
+(Kind...me  :  i.e., 'I
+didn't realize I was
+going that fast')
+
+3-61. /578.13    585.10      6.13 PATROLMAN TO PEN)
+85's getting away from you.
+95's a felony speeding here in
+Texas.
+
+3-62. 586.03     589.02/     2.15 PATROLMAN TO PEN)
+Says here your license has
+expired.
+
+3-63. 591.00     593.02/     2.02 PEN TO PATROLMAN)
+No shit.
+(Vulgar slang
+exclamation of surprise)
+
+3-64. 594.10     598.15      4.05 PATROLMAN TO PEN)
+Why don't you sit here for a
+second while I run this?
+(run this  :  i.e.,
+'check your driver's
+license number on the
+police department
+computer')
+
+3-65. 599.09     604.10/     5.01 PEN TO KIT, THEN PATROLMAN TO PEN)
+-Going to run my license.
+-What did you say?
+
+3-66. /604.14    607.10/     2.12 PEN TO PATROLMAN)
+Nothing.  No, I didn't say
+nothing.
+
+3-67. /607.14    610.05      2.07 PATROLMAN TO PEN)
+Yes, you did.
+
+3-68. 611.08     614.06/     2.14 PATROLMAN TO PEN)
+Sounded like you were talking
+to someone else.
+
+3-69. /614.11    617.14      3.03 PEN TO PATROLMAN)
+Nope.  Just talking to myself.
+
+3-70. 622.02     624.02/     2.00 PATROLMAN TO PEN)
+You been drinking, sir?
+
+3-71. 624.14     627.15      3.01 PEN TO PATROLMAN)
+I haven't had a drink in
+years.
+
+3-72. 630.00     633.02/     3.02 PATROLMAN TO PEN)
+You mind stepping out of the
+vehicle, please?
+
+3-73. 635.02     639.07      4.05 PEN TO PATROLMAN, THEN PATROLMAN TO PEN)
+-Of course not.
+-And open up the trunk for me.
+
+3-74. 642.02     644.08/     2.06 PEN TO PATROLMAN)
+Ain't nothing in the trunk.
+
+3-75. /644.13    647.01      2.04 PATROLMAN TO PEN)
+I'd like to see just the same.
+
+3-76. 647.06     649.09      2.03 PEN TO PATROLMAN)
+Okey-dokey.
+
+3-77. 655.11     659.04      3.09 PEN TO PATROLMAN)
+But I think you'll be
+disappointed.
+
+3-78. /670.03    671.11/     1.08 PEN TO PATROLMAN)
+Told you!
+
+3-79. 685.09     688.10      3.01 PEN TO KIT)
+What do you want me to do with
+him?
+
+3-80. 692.02     695.00      2.14 PEN TO KIT)
+Yeah, he's still alive.
+
+3-81. 696.04     698.12      2.08 PEN TO KIT)
+Okey-dokey.
+
+3-82. 715.08     719.04      3.12 PEN TO KIT)
+There's one in here like they
+always carry.
+(one  :  i.e., 'a can of
+gasoline')
+
+3-83. /756.00    759.12      3.12 PEN TO CYM)
+Of course I am.  I ain't a
+idiot.
+
+3-84. 760.07     762.06/     1.15 PEN TO HIMSELF)
+Fucking bitch.
+(Vulgar slang for 'Cym
+is an overbearing
+woman.')
+
+3-85. 791.00     792.10/     1.10 SEAN TO NICK)
+What are these?
+
+3-86. 793.08     795.14/     2.06 NICK TO SEAN)
+Antigens, aminos, proteins.
+
+3-87. 796.14     802.00/     5.02 NICK TO SEAN)
+Back in the late 80s, when
+they were into drug cocktails
+for HIV...
+
+3-88. /802.05    807.05      5.00 NICK TO SEAN)
+...some doctor who had been
+bitten mixed one that slowed
+the virus.
+
+3-89. 808.01     813.04      5.03 NICK TO SEAN)
+(over scene end)        Everybody's different, but usually it
+takes about a week to turn.
+
+3-90. 813.09     817.06      3.13 NICK TO SEAN)
+You get on the cocktail, you
+can buy yourself some time.
+
+3-91. 817.10     820.05/     2.11 SEAN TO NICK)
+How long do the drugs work?
+
+3-92. 822.05     826.05      4.00 NICK TO SEAN)
+They can hold off the onset
+for a couple of years.
+
+3-93. 827.08     829.13/     2.05 SEAN TO NICK)
+But not forever?
+
+3-94. 832.02     834.15      2.13 NICK TO SEAN)
+No.  Not forever.
+
+3-95. 841.10     844.06/     2.12 SEAN TO NICK)
+(over scene end)        Is that what you were giving the girl in
+the needle?
+
+3-96. /844.11    848.05      3.10 NICK TO SEAN)
+(over scene end)        No, I'm just keeping her snowed with
+morphine.
+(snowed  :  slang for
+'drugged')
+
+3-97. 848.10     850.06      1.12 SEAN TO NICK)
+(over scene end)        Why?
+
+3-98. 850.15     856.08      5.09 NICK TO SEAN)
+If her friend back there
+didn't know we were hunting
+him before, he does now.
+
+3-99. 856.13     860.10      3.13 NICK TO SEAN)
+(over scene end)        He'll come after us and that's exactly
+what I want.
+
+3-100.      860.15     864.14/    3.15  NICK TO SEAN)
+She acts as a homing device.
+The virus is telegenetic.
+
+3-101.      865.10     871.03     5.09  NICK TO SEAN)
+He can track us as long as I
+let her virus grow stronger.
+
+3-102.      872.04     875.10/    3.06  SEAN TO NICK)
+Who gave you the right to play
+God with her life?
+
+3-103.      877.03     881.07     4.04  NICK TO SEAN)
+This is all about survival of
+the fittest.
+
+3-104.      881.12     884.10/    2.14  NICK TO SEAN)
+You don't learn that, you'll
+die.
+
+3-105.      889.10     891.02/    1.08  NICK TO SEAN)
+Or worse.
+
+3-106.      922.03     924.10/    2.07  NARRATIVE TITLE) (of sign)
+
+TORNILLO TEXAS
+
+3-107.      964.15     968.02/    3.03  SEAN TO NICK)
+I feel incredible.  My whole
+body just tingles.
+
+3-108.      /968.06    970.02     1.12  NICK TO SEAN)
+Yeah, it's seductive.
+
+3-109.      971.05     975.05     4.00  NICK TO SEAN)
+(over scene end)        But remember what came out of the trunk
+of that Charger.
+(Charger  :  model of
+the Dodge car driven by
+Pen)
+
+3-110.      982.06     987.12/    5.06  SEAN TO NICK)
+You never answered me from
+before.  Why do you call him
+the Forsaken?
+
+3-111.      988.09     991.00/    2.07  NICK TO SEAN)
+How much do you know about
+vampires?
+
+3-112.      992.02     993.14/    1.12  SEAN TO NICK)
+I saw Coppola's Dracula.
+(Note reference to
+Francis Ford Coppola's
+1992 film "Dracula" -
+Note that 'Dracula' is
+to appear in ITALICS)
+
+3-113.      /994.02    997.02/    3.00  NICK TO SEAN)
+That whole Vlad the Impaler
+story's horseshit.
+(Vlad the Impaler  :
+Romanian price believed
+to have inspired the
+character Dracula in
+Bram Stoker's 1897
+novel)
+(horseshit  :  vulgar
+slang for 'nonsense')
+
+3-114.      998.00     1002.09/   4.09  NICK TO SEAN)
+The real deal started at the
+siege of Antioch during the
+great Crusade.
+
+3-115.      1003.00    1005.13/   2.13  NICK TO SEAN)
+The first battle was a
+bloodbath.
+
+3-116.      1006.06    1013.02/   6.12  NICK TO SEAN)
+The Turks kicked ass and left
+200 French knights dead or
+dying in a blizzard.
+
+3-117.      /1013.07   1017.10    4.03  NICK TO SEAN)
+By nightfall, only nine of
+them were still alive.
+
+3-118.      1017.14    1020.04/   2.06  NICK TO SEAN)
+That's when Abaddon appeared.
+
+3-119.      1023.00    1024.08/   1.08  SEAN TO NICK)
+Who's that?
+
+3-120.      1025.10    1028.04/   2.10  NICK TO SEAN)
+The angel from the bottomless
+pit.
+
+3-121.      /1028.09   1031.10/   3.01  NICK TO SEAN)
+In medieval legend, he
+appeared after battles...
+
+3-122.      /1031.15   1036.03    4.04  NICK TO SEAN)
+...all dressed in black armor
+looking for souls to steal.
+
+3-123.      1048.14    1055.01/   6.03  NICK TO SEAN)
+Eight of these French knights
+made a pact with the demon...
+
+3-124.      /1055.06   1057.06    2.00  NICK TO SEAN)
+...for eternal life.
+
+3-125.      1057.11    1063.08    5.13  NICK TO SEAN)
+To seal the deal, they killed
+and drank the blood of the
+knight who had refused.
+
+3-126.      1063.13    1065.12/   1.15  NICK TO SEAN)
+But when the sun came up...
+
+3-127.      /1066.01   1070.07    4.06  NICK TO SEAN)
+...they were so ashamed, they
+couldn't stand the sight of
+each other.
+
+3-128.      1070.12    1074.11    3.15  NICK TO SEAN)
+So they went and hid in caves
+until nightfall.
+
+3-129.      1075.00    1080.14/   5.14  NICK TO SEAN)
+They then went their separate
+ways, spread out all across
+the world, alone.
+
+3-130.      1081.11    1084.14    3.03  NICK TO SEAN)
+Forever cursed with the desire
+for human blood...
+
+3-131.      1085.02    1088.14    3.12  NICK TO SEAN)
+...and unable to ever again
+walk in daylight.
+
+3-132.      1089.03    1093.01/   3.14  NICK TO SEAN)
+The curse gradually became
+known as a disease...
+
+3-133.      /1093.06   1097.14/   4.08  NICK TO SEAN)
+...and as it spread, people
+started calling them the
+Forsaken.
+
+3-134.      1099.03    1103.09/   4.06  SEAN TO NICK)
+The eight, they still kicking?
+(kicking  :  i.e.,
+'alive')
+
+3-135.      /1103.14   1105.10    1.12  NICK TO SEAN)
+About 300 years later...
+
+3-136.      1105.15    1110.00/   4.01  NICK TO SEAN)
+...the first one was hunted
+down and killed in the Spanish
+Inquisition.
+
+3-137.      1110.10    1115.10    5.00  NICK TO SEAN)
+Before the grand inquisitor
+whacked him, he spilled the
+whole story.
+(whacked him  :  slang
+for 'killed him')
+(spilled  :  i.e.,
+'told')
+
+3-138.      1115.14    1117.06/   1.08  SEAN TO NICK)
+The others?
+
+3-139.      1120.03    1126.02    5.15  NICK TO SEAN)
+Over the past 500 years, three
+more have been hunted down and
+killed.
+
+3-140.      1126.15    1128.14/   1.15  NICK TO SEAN)
+Now we got four left.
+
+3-141.      1130.05    1134.14    4.09  NICK TO SEAN)
+One's in Africa, one in
+Eastern Europe...
+
+3-142.      1135.05    1140.04/   4.15  NICK TO SEAN)
+...and we know of two right
+here in the United States of
+America.
+
+3-143.      1141.11    1144.06    2.11  NICK TO SEAN)
+Our boy being one of them.
+(Our boy  :  i.e.,
+'Kit')
+
+3-144.      1146.08    1148.08/   2.00  SEAN TO NICK)
+I don't know if I get it.
+
+3-145.      /1148.13   1153.02/   4.05  SEAN TO NICK)
+If we waste this guy, how does
+that cure us?
+(waste  :  slang for
+'kill')
+
+3-146.      /1153.07   1156.06/   2.15  NICK TO SEAN)
+I told you, the virus is
+telegenetic.
+
+3-147.      /1156.10   1159.15    3.05  NICK TO SEAN)
+The strains are linked to the
+original eight.
+
+3-148.      /1161.14   1165.05    3.07  NICK TO SEAN)
+The last one was killed in
+Paris, 1967.
+
+3-149.      1165.10    1169.02/   3.08  NICK TO SEAN)
+He had two feeders with him
+who hadn't turned yet.
+
+3-150.      1169.10    1174.10    5.00  NICK TO SEAN)
+Both of them recovered with no
+signs of the virus in their
+blood.
+
+3-151.      1174.15    1177.08/   2.09  NICK TO SEAN)
+We kill the source of
+origin...
+
+3-152.      /1177.13   1179.14/   2.01  NICK TO SEAN)
+...then we kill the strain.
+
+3-153.      1181.13    1184.05    2.08  SEAN TO NICK)
+What if you do turn?
+
+3-154.      /1184.14   1190.14    6.00  NICK TO SEAN)
+The virus mutates into
+something that only
+decapitation or sunlight can
+kill.
+
+3-155.      1191.02    1193.01/   1.15  SEAN TO NICK)
+In other words, a vampire.
+
+3-156.      1194.03    1199.05    5.02  NICK TO SEAN)
+This map says there's an old
+Spanish mission about 60 miles
+up the road.
+
+3-157.      1199.10    1202.03    2.09  NICK TO SEAN)
+I say we go there and we wait.
+
+3-158.      1203.02    1206.07    3.05  SEAN TO NICK)
+How do we get his ass to the
+mission?
+
+3-159.      /1206.14   1209.05    2.07  NICK TO SEAN)
+Oh, he'll find us.
+
+3-160.      1212.02    1216.14    4.12  SEAN TO NICK)
+(over scene end)        What if she turns before he does?
+
+3-161.      1218.02    1219.12/   1.10  NICK TO SEAN)
+Then we kill her.
+
+3-162.      1220.15    1224.10/   3.11  SEAN TO NICK)
+That's right.  I forgot we
+were going to kill her.
+
+3-163.      /1224.14   1227.06    2.08  NICK TO SEAN)
+What do you want to do, Sean?
+
+3-164.      1227.10    1232.01    4.07  NICK TO SEAN) (sarcastically)
+(over scene end)        Want to get to know her better?  Catch a
+movie with her?
+
+3-165.      1233.03    1237.03    4.00  NICK TO SEAN) (sarcastically)
+Just make sure you keep her
+away from any major arteries.
+
+3-166.      1237.08    1239.01/   1.09  SEAN TO NICK)
+That's not funny.
+
+3-167.      1240.15    1242.08/   1.09  NICK TO SEAN)
+Exactly.
+
+3-168.      1250.05    1252.13/   2.08  SEAN TO NICK)
+It just doesn't seem fair.
+
+3-169.      1254.15    1256.13    1.14  NICK TO SEAN)
+What's that?
+
+3-170.      1261.02    1265.14/   4.12  SEAN TO NICK)
+I want to put her on the
+pills.  Let me become the
+decoy.
+
+3-171.      1268.07    1269.11/   1.04  NICK TO SEAN)
+No.
+
+3-172.      1270.02    1274.04/   4.02  SEAN TO NICK)
+She was bitten way before me.
+That means I've got longer
+before I turn.
+
+3-173.      /1274.09   1277.10/   3.01  NICK TO SEAN, THEN SEAN TO NICK)
+(over scene end)        -I don't care.  I said no.
+-Why?
+
+3-174.      /1277.14   1282.10/   4.12  NICK TO SEAN)
+Because when the time comes,
+I'll need all the muscle I can
+get.
+(muscle  :  i.e., 'help,
+in terms of physical
+strength')
+
+3-175.      1285.06    1287.06/   2.00  SEAN TO NICK)
+What is going on with this
+guy?
+
+3-176.      1291.06    1293.10/   2.04  SEAN TO NICK)
+Jesus.
+
+3-177.      1297.02    1300.02/   3.00  SEAN TO PEN)
+(over scene end)        There's another lane, asshole!
+
+3-178.      1301.05    1302.13/   1.08  SEAN TO HIMSELF)
+Fuck.
+
+3-179.      1312.13    1315.05/   2.08  SEAN TO NICK)
+This guy's seriously psycho.
+
+3-180.      1320.14    1322.06/   1.08  NICK TO SEAN)
+Fuck, it's them.
+
+3-181.      /1322.10   1325.02/   2.08  SEAN TO NICK)
+What?  Great.
+
+3-182.      /1325.06   1327.07    2.01  SEAN TO NICK)
+(over scene end)        What do we do now?
+
+3-183.      /1335.08   1337.06/   1.14  NICK TO MEGAN)
+Get back!
+
+3-184.      /1337.11   1340.10    2.15  SEAN TO NICK, THEN NICK TO SEAN)
+-Get control of her!
+-I'm trying to!
+
+3-185.      1346.12    1350.09/   3.13  NICK TO SEAN)
+(over scene end)        Drive faster!  Get the hell out of here!
+
+3-186.      1353.14    1356.08    2.10  SEAN TO NICK)
+(over scene end)        Here he comes back!
+
+3-187.      /1361.14   1363.14    2.00  SEAN TO HIMSELF)
+Oh, shit!
+
+3-188.      /1366.05   1367.13    1.08  SEAN TO HIMSELF)
+Fuck!
+
+3-189.      1368.01    1371.02/   3.01  SEAN TO NICK)
+That son of a bitch hit the
+car!
+
+3-190.      1384.05    1386.02/   1.13  NICK TO MEGAN)
+Get in the back seat!
+
+3-191.      1396.02    1398.13/   2.11  NICK TO MEGAN)
+Bite me and I'll fucking kill
+you!
+
+3-192.      1399.10    1402.10/   3.00  SEAN TO NICK)
+(over scene end)        Hang on.  Hang on.
+
+3-193.      /1402.15   1405.07/   2.08  NICK TO SEAN, THEN SEAN TO NICK)
+(over scene end)        -What are you doing?
+-I got an idea.
+
+3-194.      /1405.11   1407.01/   1.06  NICK TO SEAN)
+A good one?
+
+3-195.      /1407.05   1411.01/   3.12  SEAN TO NICK)
+I don't know.  I'm going to
+find out.
+
+3-196.      1454.14    1457.05/   2.07  SEAN TO NICK)
+(over scene end)        Motherfucker!  Look at the car!
+(Motherfucker  :  Vulgar
+slang for 'That
+despicable man')
+
+3-197.      /1457.10   1461.09    3.15  NICK TO SEAN)
+(over scene end)        Who cares!  Get in the car!  We don't
+have time for this!
+
+3-198.      1463.14    1466.14    3.00  NICK TO SEAN)
+(over scene end)        Don't let her get away!
+
+3-199.      /1469.01   1470.13/   1.12  SEAN TO MEGAN)
+Come here!  Come here!
+
+3-200.      1471.07    1474.08/   3.01  SEAN TO MEGAN)
+(over scene end)        Stop it!  Stop it!
+
+3-201.      /1474.13   1477.01/   2.04  NICK TO SEAN, THEN SEAN TO NICK)
+-Hold her.
+-No, Nick!
+
+3-202.      1477.10    1480.06/   2.12  SEAN TO NICK)
+They already know where we
+are!
+
+3-203.      /1480.12   1482.08/   1.12  SEAN TO NICK)
+Listen to me.
+
+3-204.      /1482.13   1485.10/   2.13  SEAN TO NICK)
+(over scene end)        She gets on the cocktail, or I stop
+taking it.
+
+3-205.      /1485.15   1489.02/   3.03  SEAN TO NICK)
+(over scene end)        And no more morphine or she'll never
+talk.
+
+3-206.      1491.02    1496.06/   5.04  SEAN TO NICK, THEN NICK TO SEAN)
+-What the fuck did you do that
+for?
+-We don't have time for these
+games!
+(What...for  :  i.e.,
+'Why did you hit me')
+
+3-207.      /1496.10   1500.02/   3.08  NICK TO SEAN)
+(over scene end)        We got to get to the mission!  Come on!
+(Come on  :  i.e.,
+'Let's go')
+
+3-208.      1502.06    1505.00/   2.10  NICK TO SEAN)
+Watch out.  Let's go, come on.
+
+3-209.      1534.10    1536.02/   1.08  NICK TO SEAN)
+Dude, get down!
+
+3-210.      1539.01    1540.09    1.08  NICK TO SEAN)
+Go, go, go!
+
+3-211.      /1540.14   1543.06    2.08  PEN TO HIMSELF)
+Oh, shit.
+
+3-212.      1544.09    1550.14/   6.05  PEN TO HIMSELF, THEN TO KIT)
+You gotta be fucking kidding
+me!  Fuck!  Son of a bitch
+died on us again!
+(Son of a bitch  :
+Vulgar slang for 'That
+despicable thing' -
+Referring to the car)
+(died  :  i.e., 'stopped
+functioning')
+
+3-213.      1552.10    1555.04    2.10  CYM TO PEN)
+(over scene end)        Why can't you keep this car running?!
+
+3-214.      1555.09    1559.14    4.05  PEN TO CYM)
+You shut your fucking face!
+It's not my fault!
+
+3-215.      1568.04    1570.14    2.10  SEAN TO NICK)
+Why aren't they following us,
+Nick?
+
+3-216.      1573.09    1575.05    1.12  NICK TO SEAN)
+I don't know.
+
+___________________________________________________________________________
+___________________
+
+LAST FRAME OF PICTURE IS 1578.15
+
+END OF REEL 3AB
+
+LABORATORY:  0.00 AT START MARK
+
+17.15 = 1ST SCENE END
+
+4-1.  /12.02     17.14/      5.12 NARRATIVE TITLE) (of sign) (OPTIONAL)
+
+SPEED LIMIT 55
+
+4-2.  18.13 21.04      2.07  PEN TO HIMSELF)
+Shit.
+
+4-3.  21.11 26.14      5.03  PEN TO HIMSELF)
+It's not my fault they don't
+put any money in the damn car.
+
+4-4.  27.03 30.14      3.11  PEN TO HIMSELF)
+Keep wasting it on that bitch.
+(that bitch  :  i.e.,
+'Cym')
+
+4-5.  31.03 35.06      4.03  PEN TO KIT)
+Maybe you put some money in
+the car...
+
+4-6.  36.01 39.00      2.15  PEN TO KIT)
+...we wouldn't be here, would
+we?
+
+4-7.  41.14 44.02      2.04  PEN TO HIMSELF)
+Bastards.
+
+4-8.  65.12 68.03      2.07  PEN TO HIMSELF)
+Fucking whore.
+
+4-9.  76.03 78.09      2.06  PEN TO HIMSELF)
+Oh, boy.
+
+4-10. /88.10     90.07 1.13  PEN TO KIT & CYM)
+We got one.
+(i.e., 'A car with new
+victims is
+approaching.')
+
+4-11. /94.08     97.14 3.06  DUTTON TO MIKE)
+You want some of this shit?
+You want some shit?
+(shit  :  vulgar slang,
+here referring to
+cocaine)
+
+4-12. 98.03 99.15/     1.12  MIKE TO DUTTON)
+Yeah.  Right here.
+
+4-13. /100.04    102.10/     2.06 DUTTON TO HIMSELF, THEN MIKE TO HIMSELF)
+-God!
+-Oh, Jeez.
+
+4-14. /102.14    105.06/     2.08 MIKE TO DUTTON)
+Look at that.
+
+4-15. /105.11    110.14      5.03 DUTTON TO MIKE)
+Oh, man.  Oh, man.  Pussy!
+
+4-16. /111.15    114.02      2.03 DUTTON TO MIKE)
+Pussy!
+
+4-17. 115.10     117.10      2.00 DUTTON TO MIKE)
+Pussy!
+
+4-18. 129.08     131.00/     1.08 DUTTON TO CYM)
+What's up, sugar?
+
+4-19. /131.05    134.04/     2.15 CYM TO DUTTON)
+Car died.  I don't know what
+happened.
+
+4-20. 135.01     140.02      5.01 CYM TO DUTTON)
+(over scene end)        This retard here can't seem to keep the
+goddamn thing going.
+
+4-21. 140.06     142.00/     1.10 PEN TO CYM)
+You shut up.
+
+4-22. 145.07     147.05      1.14 KIT TO MIKE & DUTTON)
+So...
+
+4-23. 149.09     151.02/     1.09 KIT TO MIKE & DUTTON)
+...what do you think?
+
+4-24. /153.14    155.15      2.01 KIT TO MIKE & DUTTON)
+Can you help us out?
+
+4-25. 159.04     161.06/     2.02 DUTTON TO KIT)
+Yeah, sure.  We could take a
+look.
+
+4-26. /161.10    168.06/     6.12 CYM TO MIKE & DUTTON)
+We're lucky you came along.
+Most people wouldn't stop out
+here at night.
+
+4-27. 169.03     171.00      1.13 KIT TO MIKE & DUTTON) (OPTIONAL)
+Yeah.
+
+4-28. 172.14     175.14/     3.00 KIT TO MIKE & DUTTON)
+We really appreciate your
+help.
+
+4-29. 178.03     180.03      2.00 DUTTON TO MIKE)
+I'll get the tools.
+
+LABORATORY:  THE FOLLOWING TITLE #4-30 MAY APPEAR AGAINST A LIGHT
+BACKGROUND.  CHECK PRINT FOR PROPER POSITIONING.
+
+4-30. 198.00     199.14      1.14 SEAN TO NICK)
+(over scene end)        Give her more pills.
+
+4-31. 200.03     204.10/     4.07 NICK TO SEAN, THEN SEAN TO NICK)
+-If I give her more, she'll
+OD.
+-Why's she still fucked up?
+(OD  :  slang for
+'overdose')
+
+4-32. /204.15    209.02/     4.03 NICK TO SEAN)
+The cocktail works slow when
+you're closer to turning.
+
+4-33. 211.06     212.14/     1.08 NICK TO SEAN)
+What's the matter?
+
+4-34. /213.03    215.03/     2.00 SEAN TO NICK)
+We're running out of gas.
+
+4-35. /215.08    218.02      2.10 NICK TO SEAN)
+How can we be running out of
+gas?
+
+4-36. 218.07     220.15/     2.08 SEAN TO NICK)
+Because they hit the tank.
+
+4-37. /221.04    223.06/     2.02 NICK TO SEAN)
+How much we got left?
+
+4-38. /223.10    227.10/     4.00 SEAN TO NICK)
+I don't know, 10 or 15 miles.
+Do I look like a fucking
+mechanic?
+
+4-39. /227.15    230.01      2.02 NICK TO SEAN) (sarcastically)
+That's excellent.
+
+4-40. 232.13     238.02/     5.05 SEAN TO NICK)
+I'll check out this shed.  You
+stay with her, all right?
+
+4-41. 312.09     314.11      2.02 SEAN TO HIMSELF)
+Jesus.
+
+4-42. 315.14     318.00      2.02 NICK TO SEAN)
+Is that what I think it is?
+(i.e., 'Is that gasoline
+in that can?')
+
+4-43. 318.05     321.02      2.13 SEAN TO NICK)
+I told you to stay in the car.
+
+4-44. 321.06     324.01      2.11 NICK TO SEAN)
+I heard a noise, I got
+worried.
+
+4-45. 328.06     330.07      2.01 SEAN TO NICK)
+That's the car.
+
+4-46. 335.03     338.14      3.11 SEAN TO NICK)
+We got to stop her from taking
+the car!
+
+4-47. 339.10     344.14      5.04 SEAN TO NICK, THEN TO MEGAN)
+Run!  Run!  Stop!  Wait!
+
+4-48. 345.13     348.01/     2.04 NICK TO SEAN)
+She's got to be stopped!
+
+4-49. 348.08     351.06      2.14 NICK TO SEAN)
+I've got all my shit in there!
+
+4-50. 352.00     353.14/     1.14 NICK TO SEAN)
+Come on!
+(i.e., 'Come with me!')
+
+4-51. 358.06     360.01      1.11 NICK TO HIMSELF)
+Damn!
+
+4-52. 428.08     435.04      6.12 MIKE TO KIT)
+By the looks of it, you
+probably need an altern--  Oh,
+what the fuck?
+(altern--  :  implying,
+'alternator')
+
+4-53. 436.10     439.10/     3.00 KIT TO MIKE, THEN DUTTON TO PEN)
+(over scene end)        -Let's take a walk.
+-What's going on?
+
+4-54. 440.13     442.15/     2.02 CYM TO DUTTON)
+Time to die, cowboy.
+
+4-55. /453.02    459.14      6.12 MIKE TO KIT)
+I only have 40 bucks, but I
+got credit cards.  I'll give
+you the pin number.
+
+4-56. 460.02     462.10      2.08 KIT TO MIKE)
+This is far enough.
+
+4-57. 464.11     466.03/     1.08 KIT TO MIKE)
+Kneel down.
+
+4-58. /466.08    468.11/     2.03 MIKE TO KIT)
+Go ahead, take the wallet,
+please.
+
+4-59. /469.00    471.02/     2.02 KIT TO MIKE)
+Kneel down.
+
+4-60. 487.10     489.02/     1.08 KIT TO MIKE)
+Girlfriend?
+(i.e., 'Is this a
+photograph of your
+girlfriend?')
+
+4-61. /489.07    492.02/     2.11 MIKE TO KIT)
+Yeah, she's my girlfriend.
+
+4-62. /492.06    494.15/     2.09 MIKE TO KIT)
+We're thinking about getting
+married...
+
+4-63. /495.04    499.10/     4.06 MIKE TO KIT)
+...after we graduate and her
+dad--    Holy fuck...
+
+4-64. /499.14    503.00/     3.02 MIKE TO KIT)
+...her dad is so rich and I
+can call him...
+
+4-65. /503.05    505.14      2.09 MIKE TO KIT)
+...and he's got so much money.
+
+4-66. 509.09     512.09      3.00 MIKE TO KIT)
+Please, God, don't do this to
+me.
+
+4-67. 526.01     530.10      4.09 KIT TO MIKE)
+You got your whole life
+planned out, do you?
+
+4-68. 563.00     565.12/     2.12 PEN TO KIT)
+What will I do with their car?
+
+4-69. 566.10     568.10/     2.00 KIT TO PEN)
+We're taking it.
+
+4-70. 582.02     586.02/     4.00 NICK TO SEAN)
+You know how long I've been
+tracking this guy for?
+
+4-71. 588.03     590.05      2.02 NICK TO SEAN)
+Nine months.
+
+4-72. 592.14     595.14      3.00 NICK TO SEAN)
+It's not easy.  They hide
+their killing.
+
+4-73. 596.02     599.12      3.10 NICK TO SEAN)
+(over scene end)        Make it look like a gang fight.
+
+4-74. 600.00     602.14/     2.14 NICK TO SEAN)
+Robberies.  Some guy riding a
+freight train...
+
+4-75. /603.02    606.02      3.00 NICK TO SEAN)
+...killing old women.  All
+kinds of shit.
+
+4-76. 606.06     608.06/     2.00 NICK TO SEAN)
+Almost all serial killers.
+
+4-77. /612.10    614.06/     1.12 NICK TO SEAN)
+Let me get this.
+
+4-78. 618.15     621.00      2.01 SEAN TO NICK)
+It's weird.
+
+4-79. 623.14     625.08/     1.10 SEAN TO NICK)
+Three days ago...
+
+4-80. /625.13    630.02/     4.05 SEAN TO NICK)
+...I had a phat job and not a
+worry in the world.
+(phat  :  slang for
+'excellent')
+
+4-81. 630.11     633.10      2.15 SEAN TO NICK)
+And now I'll turn into a
+vampire...
+
+4-82. 633.14     639.12      5.14 SEAN TO NICK)
+...if I don't whack some
+freaked out psycho.
+(whack  :  slang for
+'kill')
+
+4-83. 643.03     646.11      3.08 SEAN TO NICK)
+On top of all that, I'll lose
+my job.
+
+4-84. 652.00     654.06/     2.06 NICK TO SEAN)
+How'd you get into the movie
+biz?
+
+4-85. 654.14     657.00      2.02 NICK TO SEAN)
+Your old man?
+
+4-86. 660.10     664.02      3.08 SEAN TO NICK)
+My old man doesn't know I
+exist.
+
+4-87. 669.06     675.00      5.10 SEAN TO NICK)
+Yeah.  He walked out on my mom
+when she was pregnant with me.
+
+4-88. 678.04     680.07      2.03 NICK TO SEAN)
+That's fucked up.
+
+4-89. 684.06     688.01      3.11 NICK TO SEAN)
+I guess it just must be in the
+blood, huh?
+
+4-90. 689.08     691.14/     2.06 SEAN TO NICK)
+Like father, like son.
+
+4-91. 693.08     695.14      2.06 NICK TO SEAN)
+Shit, I hope not.
+
+4-92. 696.10     700.07/     3.13 NICK TO SEAN)
+My mom says my dad was a cross-
+dressing marine drill
+sergeant.
+
+4-93. 724.01     726.06      2.05 SEAN TO NICK)
+Where'd you get this?
+(this  :  i.e., 'my
+wallet')
+
+4-94. 727.12     732.10      4.14 NICK TO SEAN)
+I found it along the road
+while I was hitching.
+
+4-95. 733.11     736.02/     2.07 NICK TO SEAN)
+You got to be pretty pissed,
+huh?
+
+4-96. 737.07     740.14      3.07 SEAN TO NICK)
+(over scene end)        You had my fucking wallet the whole time?
+
+4-97. 742.09     744.14      2.05 SEAN TO NICK)
+(over scene end)        And you didn't tell me?
+
+4-98. 745.14     747.06      1.08 NICK TO SEAN)
+No.
+
+4-99. 753.08     755.10      2.02 SEAN TO NICK)
+(over scene end)        That's fucked up.
+
+4-100.      764.09     766.09     2.00  NICK TO SEAN)
+(over scene end)        There it is.
+
+4-101.      777.06     780.14     3.08  SEAN TO NICK)
+This car is trashed, man.
+
+4-102.      782.10     787.06     4.12  SEAN TO NICK)
+Do you know how much a new
+transmission in a car like
+this costs?
+
+4-103.      789.05     792.05     3.00  NICK TO SEAN)
+(over scene end)        Would you stop worrying about the damn
+car?
+
+4-104.      792.10     794.04/    1.10  SEAN TO NICK)
+Is that her?
+
+4-105.      821.11     823.14     2.03  SEAN TO NICK)
+Let me handle this.
+
+4-106.      829.09     831.15/    2.06  SEAN TO MEGAN)
+(over scene end)        It's okay.  Listen to me.
+
+4-107.      832.10     835.10/    3.00  SEAN TO MEGAN)
+(over scene end)        We're the only ones who can get you out
+of this alive.
+
+4-108.      /835.14    837.12/    1.14  NICK TO SEAN)
+We got a car coming.
+
+4-109.      /838.01    839.14/    1.13  NICK TO SEAN)
+Get her in the car, man.
+
+4-110.      840.14     842.06/    1.08  NICK TO HIMSELF)
+Shit.
+
+4-111.      843.03     844.11/    1.08  SEAN TO MEGAN)
+Let's go.
+
+4-112.      845.10     847.10     2.00  NICK TO SEAN)
+Let's go.  Hurry.
+
+4-113.      849.14     854.04     4.06  SEAN TO NICK)
+Move the seat up.  Good.  Get
+her in back.
+
+4-114.      856.12     859.05     2.09  NICK TO SEAN)
+All right, get in, lie low.
+
+4-115.      /871.11    876.00/    4.05  NICK TO SEAN, THEN SEAN TO NICK)
+(over scene end)        -If it's them, we need a plan.
+-It could be anybody.
+
+4-116.      878.02     883.02/    5.00  NICK TO SEAN)
+We can't make a stand here.
+We got to get to the mission.
+
+4-117.      /894.00    896.00/    2.00  SEAN TO NICK, THEN NICK TO SEAN)
+-Oh, shit.
+-It's them.
+
+4-118.      /896.05    899.04/    2.15  SEAN TO NICK)
+I think they've seen us.
+
+4-119.      899.14     901.14/    2.00  NICK TO SEAN)
+Start the car.
+
+4-120.      909.13     912.13     3.00  SEAN TO HIMSELF)
+Come on, not now.
+(Come on  :  Colloquial
+exclamation of
+imploring)
+
+4-121.      913.02     915.11     2.09  NICK TO SEAN, THEN SEAN TO NICK)
+(over scene end)        -What's going on?
+-It's not going into gear.
+
+4-122.      916.00     918.10/    2.10  NICK TO SEAN)
+Gear, man.  Got to get out.
+
+4-123.      /918.14    922.03/    3.05  SEAN TO NICK, THEN NICK TO SEAN)
+-Come on!
+-Here they come!  Come on!
+Go!
+(Come on  :  i.e.,
+'Let's go')
+
+4-124.      /922.08    924.12/    2.04  NICK TO SEAN)
+Yank it!  Come on!
+(Yank it  :  i.e.,
+'Force the car into
+gear')
+
+4-125.      926.14     929.06/    2.08  NICK TO SEAN)
+Go!  Come on!
+
+4-126.      /929.11    933.08/    3.13  NICK TO SEAN)
+Go!  Go!  Good, good.  Good,
+go, go, go!
+
+4-127.      939.12     942.02/    2.06  NICK TO SEAN)
+(over scene end)        Sean, come on.  Let's go.
+
+4-128.      943.01     945.11/    2.10  NICK TO SEAN)
+(over scene ends)       Take a fucking left!  Let's go!
+
+4-129.      /947.14    950.05     2.07  NICK TO SEAN)
+(over scene end)        No, left!
+
+4-130.      959.08     962.01     2.09  KIT TO PEN)
+Go!
+
+4-131.      /964.06    965.14/    1.08  CYM TO KIT)
+What's he doing?
+
+4-132.      /972.03    974.09     2.06  NICK TO SEAN)
+(over scene end)        Sean, what are you doing?
+
+4-133.      975.00     977.00/    2.00  SEAN TO NICK)
+I'm going to play chicken.
+(chicken  :  any of
+various foolhardy
+competitions in which
+the participants persist
+in a dangerous course of
+action until one loses
+nerve and stops)
+
+4-134.      /978.15    981.02/    2.03  KIT AS IF TO NICK & SEAN)
+Come on, you pussies!
+
+4-135.      /994.10    996.15/    2.05  PEN AS IF TO SEAN)
+(over scene ends)       Want to play chicken with me, boy?
+
+4-136.      1006.06    1008.06/   2.00  KIT TO CYM)
+(over scene end)        Don't you turn that wheel.
+
+4-137.      1010.06    1012.03/   1.13  SEAN TO HIMSELF)
+(over scene ends)       Rock and roll!
+(Slang exclamation of
+excitement)
+
+4-138.      1013.02    1014.12/   1.10  CYM TO HERSELF)
+(over scene ends)       Oh, shit!
+
+4-139.      1021.05    1023.02/   1.13  NICK TO HIMSELF)
+Oh, shit.
+
+4-140.      /1028.03   1030.04    2.01  CYM TO HERSELF)
+(over scene end)        Damn!
+
+4-141.      1037.02    1038.10/   1.08  PEN TO HIMSELF)
+Fucker.
+
+4-142.      1049.15    1051.15/   2.00  NICK TO SEAN)
+They're still with us.
+
+4-143.      /1052.04   1054.03/   1.15  SEAN TO NICK)
+They'll never give up.
+
+4-144.      1062.05    1064.11/   2.06  NICK TO SEAN)
+Speed up.  We got to make it
+to the mission.
+
+4-145.      /1065.00   1066.13    1.13  SEAN TO NICK)
+I got it.
+
+4-146.      1108.10    1110.02/   1.08  SEAN TO NICK)
+What's this?
+
+4-147.      /1115.02   1117.10    2.08  SEAN TO NICK)
+You got to be fucking kidding
+me.
+
+4-148.      /1131.03   1133.06/   2.03  NICK TO SEAN)
+You got to make a decision.
+
+4-149.      /1136.10   1138.07/   1.13  SEAN TO NICK)
+(over scene end)        We're going for it.
+
+4-150.      1180.08    1183.09    3.01  NICK TO SEAN)
+How'd you know you'd get
+through there?
+
+4-151.      1184.04    1185.14    1.10  SEAN TO NICK)
+I didn't.
+
+4-152.      1189.10    1192.05    2.11  SEAN TO NICK)
+Let's get the fuck out of
+here.
+
+4-153.      1233.04    1236.02    2.14  SEAN TO NICK)
+How much farther to the
+mission?
+
+4-154.      1236.07    1238.14/   2.07  NICK TO SEAN)
+About ten miles.
+
+4-155.      /1239.02   1242.10    3.08  SEAN TO NICK)
+We don't have enough gas to
+make it there.
+
+4-156.      1248.02    1250.02/   2.00  NICK TO SEAN)
+Looks deserted, man.
+
+4-157.      1261.00    1263.02    2.02  NICK TO SEAN)
+It's all locked up.
+
+4-158.      1268.00    1274.00    6.00  SEAN TO NICK)
+We got to get her inside.  The
+pills are working, but she can
+barely walk.
+
+4-159.      /1276.00   1279.08    3.08  NICK TO SEAN)
+Once she gets some sleep,
+she'll be okay.
+
+4-160.      1284.02    1285.14    1.12  SEAN TO NICK)
+Nothing?
+
+4-161.      1294.13    1297.04/   2.07  NICK TO HIMSELF)
+Damn it!  Come on.
+
+4-162.      /1299.10   1301.04    1.10  NICK TO HIMSELF)
+Oh, shit.
+
+4-163.      1302.13    1304.05/   1.08  INA TO DOG)
+Buster!
+
+4-164.      1305.02    1309.14/   4.12  INA TO GROUP)
+(over scene end)        Get your butts out of here.
+
+4-165.      /1310.03   1313.03/   3.00  SEAN TO INA)
+Believe me, madam, we'd love
+to.
+
+4-166.      1314.02    1316.14/   2.12  SEAN TO INA)
+But we're almost out of gas.
+
+4-167.      /1317.03   1321.02/   3.15  NICK TO INA)
+We're not looking for a
+handout.  We'll buy it.
+
+4-168.      /1321.06   1323.07/   2.01  INA TO NICK)
+Ain't got any to sell.
+
+4-169.      /1323.12   1326.00/   2.04  SEAN TO INA)
+Could we use your phone?
+
+4-170.      /1326.05   1329.00/   2.11  INA TO SEAN)
+Ain't got one.
+
+4-171.      1330.04    1332.11/   2.07  SEAN TO HIMSELF, THEN TO MEGAN)
+Jesus.  Come on.
+(Come on  :  i.e., 'Come
+with me')
+
+4-172.      /1335.06   1340.06/   5.00  SEAN TO INA)
+Listen to me.  We are in a lot
+of trouble.
+
+4-173.      1340.14    1344.07/   3.09  SEAN TO INA)
+And this girl here is really
+sick.
+
+4-174.      1345.05    1347.07    2.02  SEAN TO INA)
+Please.
+
+4-175.      1356.10    1359.09    2.15  INA TO SEAN)
+You better get her on in here.
+
+4-176.      1362.15    1365.06/   2.07  CYM TO KIT)
+Why would they go this way?
+
+4-177.      /1365.11   1367.08/   1.13  KIT TO CYM)
+Just drive.
+
+4-178.      /1367.13   1372.02/   4.05  CYM TO KIT)
+What are we doing?  Let them
+go.  We got bigger problems.
+
+4-179.      1372.14    1376.03    3.05  CYM TO KIT)
+Who will day drive for us?
+
+4-180.      1472.14    1475.05    2.07  NICK TO SEAN)
+You want something to eat, my
+man?
+
+4-181.      1479.14    1481.08    1.10  NICK TO SEAN)
+What's wrong?
+
+4-182.      /1481.14   1484.10    2.12  SEAN TO NICK)
+I don't feel so good.
+
+4-183.      1487.09    1490.02/   2.09  SEAN TO NICK)
+Man, I feel like I did before.
+
+4-184.      1491.01    1494.11    3.10  SEAN TO NICK)
+I think I need some more of
+those drugs.
+
+4-185.      1496.02    1499.07    3.05  NICK TO SEAN)
+(over scene end)        The cocktail doesn't always work.
+
+4-186.      1505.00    1507.08    2.08  INA TO SEAN & NICK)
+She's resting now.
+
+4-187.      1512.10    1515.08    2.14  INA TO SEAN & NICK)
+She seems to be okay.
+
+4-188.      1520.14    1524.04/   3.06  INA TO SEAN & NICK)
+Doesn't say much, does she?
+
+4-189.      /1524.08   1527.08/   3.00  NICK TO INA)
+There must be a place we can
+get her some help.
+
+4-190.      /1527.12   1534.05    6.09  INA TO NICK)
+(over scene end)        I told you Fort Stockton's the closest
+and it's over 100 miles.
+
+4-191.      1535.02    1536.12    1.10  NICK TO HIMSELF) (whispering)
+Fuck.
+
+4-192.      1537.02    1544.05    7.03  INA TO SEAN & NICK)
+(over scene ends)       What's wrong with that little gal that
+you're traveling with?
+
+4-193.      1544.10    1546.03/   1.09  NICK TO INA)
+We don't know.
+
+4-194.      1547.04    1551.03/   3.15  NICK TO INA)
+(over scene end)        She was hitchhiking.  She was like that
+when we picked her up.
+
+4-195.      1551.15    1554.10/   2.11  INA TO SEAN & NICK)
+She didn't say who she was?
+
+4-196.      1554.14    1558.10/   3.12  SEAN TO INA)
+She hasn't said a word since
+we gave her a ride.
+
+4-197.      1559.10    1562.14    3.04  INA TO SEAN & NICK)
+I think maybe...
+
+LABORATORY:  TITLE #4-198 OVERLAPS WITH NARRATIVE TITLE #4-199.  TITLE #4-
+198 IS TO APPEAR IN THE NORMAL SUBTITLE POSITION AND NARRATIVE TITLE #4-199
+IS TO APPEAR IN THE CENTER OF THE FRAME.
+
+4-198.      /1565.06   1568.11    3.05  INA TO SEAN & NICK)
+...you should take a look at
+this.
+
+4-199.      /1565.06   1568.11    3.05  NARRATIVE TITLE) (of newspaper)
+
+WOMAN SOUGHT IN ARIZONA
+BLOODBATH
+
+___________________________________________________________________________
+___________________
+
+LAST FRAME OF PICTURE IS 1570.09
+
+END OF REEL 4AB
+
+LABORATORY:  0.00 AT START MARK
+
+14.00 = 1ST SCENE END
+
+5-1.  94.14 98.09      3.11  CYM TO KIT)
+(over scene end)        You've lost the connection with her,
+haven't you?
+(connection  :  i.e.,
+'psychic connection')
+(her  :  i.e., 'Megan')
+
+5-2.  104.06     109.02/     4.12 CYM TO KIT)
+(over scene end)        I don't know why we keep chasing that
+bitch.
+
+5-3.  111.05     114.10/     3.05 KIT TO CYM)
+It's unfinished business.
+
+5-4.  123.02     124.14      1.12 KIT TO TEDDY)
+(over scene ends)       Kill her.
+
+5-5.  138.10     141.08      2.14 MEGAN TO GROUP)
+He left her to kill me.
+
+5-6.  145.00     147.00/     2.00 MEGAN TO GROUP)
+I don't know why she didn't.
+
+5-7.  /152.12    155.04/     2.08 MEGAN TO GROUP)
+When she pointed the gun at
+me...
+
+5-8.  157.06     160.00/     2.10 MEGAN TO GROUP) (voice over)
+ITAL                   ...I couldn't breathe.
+
+5-9.  163.02     165.14      2.12 MEGAN TO GROUP)
+Couldn't even move.
+
+5-10. 168.11     173.08/     4.13 MEGAN TO GROUP)
+(over scene end)        But I think she was scared, because...
+
+5-11. 174.10     177.04      2.10 MEGAN TO GROUP) (voice over)
+ITAL                   ...she just stood there.
+
+5-12. 179.02     183.07/     4.05 MEGAN TO GROUP) (voice over)
+ITAL                   She had the strangest look in her eyes.
+
+5-13. 185.07     191.05      5.14 MEGAN TO GROUP)
+After that, I don't remember
+much at all.
+
+5-14. /199.06    201.02/     1.12 NICK TO INA)
+(over scene end)        What's with the dog?
+
+5-15. 203.05     205.02      1.13 INA TO GROUP)
+(over scene end)        Just stay put.
+
+5-16. 205.07     207.15/     2.08 INA TO GROUP)
+Probably just a coyote.
+
+5-17. 220.05     222.02      1.13 INA TO DOG)
+Buster.
+
+5-18. 245.03     246.11/     1.08 SEAN TO INA)
+What was it?
+
+5-19. 248.09     250.07      1.14 INA TO SEAN)
+I don't know.
+
+5-20. 251.02     252.12/     1.10 INA TO SEAN)
+Buster ran off.
+
+5-21. 261.10     265.03/     3.09 NICK TO GROUP)
+(over scene ends)       Everybody down!  Get under the table.
+Hurry up.
+
+5-22. 289.00     290.10/     1.10 NICK TO GROUP)
+Stay down.
+
+5-23. /322.12    326.09      3.13 KIT TO GROUP)
+Come out, come out, wherever
+you are.
+
+5-24. 341.02     343.06      2.04 SEAN TO INA)
+Where's your shotgun?
+
+5-25. 345.14     351.14/     6.00 INA TO SEAN)
+It's by the side door.
+There's extra shells in the
+refrigerator.
+
+5-26. 425.05     427.06/     2.01 SEAN TO INA)
+What's with those tombstones?
+
+5-27. /427.10    430.11/     3.01 INA TO SEAN)
+It's an old Spanish graveyard.
+
+5-28. /431.00    434.00/     3.00 INA TO SEAN)
+That's why the highway wasn't
+put through here.
+
+5-29. 434.13     437.00/     2.03 INA TO SEAN)
+They couldn't dig it up.
+
+5-30. /437.05    439.12/     2.07 NICK TO INA)
+Your house is built on a
+graveyard?
+
+5-31. /445.07    448.00/     2.09 SEAN TO NICK)
+Are you thinking what I'm
+thinking?
+
+5-32. 448.09     451.07      2.14 NICK TO SEAN)
+(over scene end)        This place is blessed, baby.
+
+5-33. /455.06    456.15/     1.09 NICK TO SEAN)
+(over scene end)        Sean, look out!
+
+5-34. 466.05     468.02/     1.13 SEAN TO NICK)
+(over scene end)        Come on!
+(i.e., 'Come with me!')
+
+5-35. 537.00     539.06/     2.06 KIT TO CYM)
+Let's get this over with.
+
+5-36. 613.14     617.07      3.09 KIT TO SEAN & NICK)
+Come to daddy, boys.
+
+5-37. 673.03     676.06      3.03 CYM TO SEAN & NICK)
+(over scene ends)       Are you in there, piggies?
+
+5-38. 678.08     681.15/     3.07 CYM TO SEAN & NICK)
+(over scene end)        Yum, yum, yum.  Eat them up.
+(i.e., 'I'm going to eat
+your corpses.')
+
+5-39. /682.04    685.04/     3.00 CYM TO SEAN & NICK)
+Eat them up.  Eat them up.
+
+5-40. 761.12     763.14/     2.02 SEAN TO GROUP)
+Now that's a bitch!
+(a bitch  :  Note double
+meaning - [1] offensive
+slang for 'an
+overbearing woman' and
+[2] slang for 'something
+annoying and
+unpleasant')
+
+5-41. 785.01     788.00      2.15 NICK TO SEAN)
+I hit the motherfucker.
+
+5-42. 790.03     793.02      2.15 NICK TO SEAN)
+(over scene end)        Be sure to take his head off.
+
+5-43. 813.10     815.07      1.13 SEAN TO NICK)
+I don't see--
+
+5-44. 836.03     839.02      2.15 KIT TO SEAN)
+Make your stand, punk.
+
+5-45. 840.01     842.02/     2.01 KIT TO SEAN)
+Let's see what you got.
+
+5-46. /901.15    904.13      2.14 KIT TO SEAN)
+Not much fight left, huh?
+
+5-47. /907.03    910.00/     2.13 SEAN TO KIT)
+Kill me.
+
+5-48. 912.10     915.14      3.04 SEAN TO KIT)
+Kill me.
+
+5-49. 921.02     923.04      2.02 KIT TO SEAN)
+Kill you?
+
+5-50. 923.11     926.14      3.03 KIT TO SEAN)
+Who said anything about
+killing?
+
+5-51. 927.07     930.14/     3.07 KIT TO SEAN)
+You'll be my new day driver.
+
+5-52. /931.02    933.10/     2.08 KIT TO SEAN)
+At least until you turn.
+
+5-53. /933.15    936.07/     2.08 KIT TO SEAN)
+Then I don't give a shit what
+you do.
+
+5-54. 939.09     941.06/     1.13 KIT TO SEAN)
+Get the car.
+
+5-55. /941.10    944.06      2.12 KIT TO SEAN)
+And bring it around.
+
+5-56. 963.11     965.10/     1.15 KIT TO SEAN)
+And if you fuck with me...
+
+5-57. /965.15    968.14/     2.15 KIT TO SEAN)
+...I'll kill your little blond
+friend...
+
+5-58. /969.02    971.15      2.13 KIT TO SEAN)
+...in a blink of an eye.
+
+5-59. 987.09     992.11      5.02 KIT) (singing)
+ITAL                   It's just the beast under your bed
+(Note that in Titles #5-
+59 through #5-63, Kit is
+singing "Enter Sandman"
+by the heavy-metal band
+Metallica)
+
+5-60. 993.00     997.14/     4.14 KIT) (singing)
+ITAL                   In your closet, in your head
+
+5-61. /998.02    1001.06     3.04 KIT) (singing)
+ITAL                   Exit light
+
+5-62. 1002.05    1006.14     4.09 KIT) (singing)
+ITAL  (over scene end)       Enter night
+
+5-63. 1010.04    1014.05     4.01 KIT) (singing)
+ITAL                   We're off to never-never land
+
+5-64. 1027.02    1031.02     4.00 KIT TO MEGAN)
+(over scene end)        I'm looking for a new girlfriend.
+
+5-65. 1031.14    1034.10/    2.12 KIT TO MEGAN, THEN MEGAN TO KIT)
+(over scene end)        -What do you say?
+-Fuck you.
+
+5-66. 1036.13    1041.13     5.00 KIT TO MEGAN)
+Attitude.  I like that in a
+girl.
+
+5-67. 1043.10    1046.15/    3.05 KIT TO MEGAN)
+(over scene end)        Now move away from the old witch, please.
+
+5-68. 1048.10    1051.01     2.07 KIT TO MEGAN)
+Look, darling.
+
+5-69. 1052.02    1055.07/    3.05 KIT TO MEGAN)
+I'll waste her as sure as the
+sun shines.
+(waste  :  slang for
+'kill')
+(as...shines  :
+colloquial emphatic)
+
+5-70. 1056.04    1059.02/    2.14 KIT TO MEGAN)
+Now, you can stay with her and
+die...
+
+5-71. 1060.02    1062.00     1.14 KIT TO MEGAN)
+...or...
+
+5-72. 1063.02    1066.10     3.08 KIT TO MEGAN)
+...you can come with me and
+I'll let you live.
+
+5-73. 1091.09    1094.06/    2.13 SEAN TO KIT)
+(over scene end)        It's time to make your stand, punk!
+
+5-74. 1095.07    1097.10/    2.03 SEAN TO KIT)
+(over scene end)        Let's see what you've got.
+
+5-75. /1148.10   1153.06/    4.12 SEAN AS IF TO CAR)
+No!  No!  No!  Come on!
+(Come on  :  i.e.,
+'Start' - 'Turn over')
+
+5-76. 1154.10    1157.02     2.08 KIT TO SEAN) (sarcastically)
+Out of gas, are we?
+
+5-77. 1171.05    1178.12/    7.07 KIT TO SEAN)
+(over scene end)        Didn't I go and tell you to do something!
+
+5-78. 1206.03    1208.01     1.14 SEAN TO KIT)
+You know what?
+
+5-79. 1211.06    1214.11/    3.05 SEAN TO KIT)
+Why don't you drive your own
+fucking car.
+
+5-80. 1260.14    1262.11/    1.13 SEAN TO NICK)
+Come on.
+(i.e., 'Come with me.')
+
+5-81. 1278.00    1279.11/    1.11 MEGAN TO INA) (OPTIONAL)
+Come on, Ina!
+
+5-82. 1349.07    1351.02/    1.11 MEGAN TO SEAN)
+How do you feel?
+
+5-83. 1352.08    1354.03     1.11 SEAN TO MEGAN)
+Good.
+
+5-84. 1355.06    1356.14/    1.08 SEAN TO MEGAN)
+You?
+
+5-85. /1357.03   1359.11     2.08 MEGAN TO SEAN)
+Going home today.
+
+5-86. 1360.06    1365.10/    5.04 MEGAN TO SEAN)
+Actually, not home.  My aunt
+and uncle's place in Phoenix.
+
+5-87. 1367.13    1371.14     4.01 SEAN TO MEGAN)
+They said I could probably go
+home tomorrow.
+
+5-88. 1373.10    1376.12/    3.02 SEAN TO MEGAN)
+I can still make my sister's
+wedding.
+
+5-89. 1377.10    1380.12     3.02 MEGAN TO SEAN)
+I saw Ina this morning.
+
+5-90. 1382.15    1387.07/    4.08 MEGAN TO SEAN)
+She's okay, but she doesn't
+remember what happened.
+
+5-91. 1388.14    1392.09     3.11 SEAN TO MEGAN)
+Yeah, nobody suspects a thing.
+
+5-92. 1393.03    1396.06/    3.03 SEAN TO MEGAN)
+Just a couple of bad guys
+burned up in a fire.
+
+5-93. 1397.06    1400.01     2.11 SEAN TO MEGAN)
+Probably better that way, huh?
+
+5-94. 1402.06    1404.10/    2.04 MEGAN TO SEAN)
+No one would believe it.
+
+5-95. 1406.03    1408.07/    2.04 SEAN TO MEGAN)
+No, probably not.
+
+5-96. 1413.12    1415.08     1.12 MEGAN TO SEAN)
+Well...
+
+5-97. 1416.08    1418.03/    1.11 MEGAN TO SEAN)
+...I got to go.
+
+5-98. 1419.15    1423.15     4.00 MEGAN TO SEAN)
+I just wanted to thank you for
+everything.
+
+5-99. 1474.11    1478.06/    3.11 SEAN TO MALE ORDERLY)
+What's up?  Where's the guy
+that was here?
+
+5-100.      /1478.10   1480.13    2.03  MALE ORDERLY TO SEAN)
+Checked out, I guess.
+
+5-101.      1482.14    1485.00/   2.02  FEMALE NURSE TO SEAN)
+(over scene end)        He left this for you.
+
+5-102.      1497.09    1501.10    4.01  NICK TO SEAN) (voice over)
+ITAL                   By the time you read this, I'll be on the road
+again.
+
+5-103.      1501.15    1504.10    2.11  NICK TO SEAN) (voice over)
+ITAL                   Your's and Megan's fight is over.
+
+5-104.      1504.14    1510.04/   5.06  NICK TO SEAN) (voice over)
+ITAL                   Mine ain't.  Turns out he wasn't the one I was
+looking for.
+
+5-105.      1511.02    1513.10/   2.08  NICK TO SEAN) (voice over)
+ITAL  (over scene ends)           Mine's still out there somewhere.
+
+5-106.      /1519.00   1524.00    5.00  NICK TO SEAN) (voice over)
+ITAL                   But the way I figure it, if I can find one, I can
+find another.
+
+5-107.      1524.05    1528.14    4.09  NICK TO SEAN) (voice over)
+ITAL                   They might be bad motherfuckers, but we're not
+talking brain surgeons.
+(bad  :  i.e., 'evil')
+(we're not talking  :
+slang for 'they're not')
+
+5-108.      1529.11    1534.13    5.02  NICK TO SEAN) (voice over)
+ITAL                   So anyways, thanks.  It was cool hanging with you.
+
+5-109.      1535.02    1537.14    2.12  NICK TO SEAN) (voice over)
+ITAL                   Maybe I'll see you again sometime.
+
+5-110.      1585.10    1587.03/   1.09  NICK TO SEAN)
+Nice ride, man.
+
+5-111.      /1587.08   1590.06    2.14  SEAN TO NICK)
+Had you going for a minute,
+didn't I?
+(Had you going  :  i.e.,
+'I tricked you')
+
+5-112.      1590.11    1595.01    4.06  SEAN TO NICK, THEN NICK TO SEAN)
+-Took it from an old friend.
+-Yeah, right.
+(it  :  i.e., 'the car')
+
+5-113.      1613.05    1615.02/   1.13  NICK TO SEAN)
+How did you find me?
+
+5-114.      1617.02    1618.10    1.08  SEAN TO NICK)
+Well....
+
+5-115.      1621.14    1626.06/   4.08  SEAN TO NICK)
+I drove just about every damn
+road...
+
+5-116.      1627.01    1634.06    7.05  SEAN TO NICK)
+...from Nevada to Kansas,
+Mexico to Montana, for about
+three months.
+
+5-117.      1634.10    1638.11    4.01  SEAN TO NICK)
+Then I wised up, started doing
+what you do.
+
+5-118.      1639.00    1642.14    3.14  SEAN TO NICK)
+(over scene end)        Checking the news, reading the papers.
+
+5-119.      1643.02    1644.15    1.13  SEAN TO NICK)
+You're right.
+
+5-120.      1645.14    1648.06    2.08  SEAN TO NICK)
+They do hide their killings.
+(They  :  i.e.,
+'Vampires')
+
+5-121.      1648.11    1651.06    2.11  SEAN TO NICK)
+Look hard enough, you can find
+them.
+
+5-122.      1652.03    1654.07    2.04  SEAN TO NICK, THEN NICK TO SEAN)
+(over scene end)        -Here.
+-Thanks.
+(Here  :  i.e., 'Drink
+some of this')
+
+5-123.      /1658.14   1661.12    2.14  SEAN TO NICK)
+He's been a bad boy, Nick.
+(He  :  i.e., 'The
+vampire who bit you')
+
+5-124.      1662.10    1664.06    1.12  SEAN TO NICK)
+And busy.
+
+5-125.      1664.11    1667.06    2.11  SEAN TO NICK)
+Busier than the last one.
+
+5-126.      1668.15    1675.00/   6.01  SEAN TO NICK)
+I figure he's going to Denver.
+He moves fast, so he won't
+stay there long.
+
+5-127.      1675.15    1679.02    3.03  NICK TO SEAN)
+You don't have to do this, you
+know that.
+(do this  :  i.e., 'hunt
+for this other vampire
+with me')
+
+5-128.      1680.06    1682.02    1.12  SEAN TO NICK)
+Yeah, I do.
+
+5-129.      1700.05    1705.04    4.15  NICK TO SEAN) (voice over)
+ITAL                   So tell me.  Was that woman really pissed about her
+Mercedes?
+
+5-130.      1705.09    1708.03    2.10  SEAN TO NICK) (voice over)
+ITAL                   Oh, yeah.
+
+____________________________________________________________________________
+__________________
+
+LAST FRAME OF PICTURE IS 2066.08
+
+END OF REEL 5AB
+
+END OF FILM

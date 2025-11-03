@@ -1,0 +1,550 @@
+{
+    "Assassin": {
+        "file_name": "Assassin",
+        "script_url": "http://www.awesomefilm.com/script/assassins_final.txt"
+    },
+    "Ghostbusters\r  II": {
+        "file_name": "Ghostbusters-II",
+        "script_url": "http://www.awesomefilm.com/script/Ghostbusters2.txt"
+    },
+    "McCabe and Mrs. Mille": {
+        "file_name": "McCabe-and-Mrs-Mille",
+        "script_url": "http://www.awesomefilm.com/script/mccabeandmrsmiller.pdf"
+    },
+    "Quiz Show": {
+        "file_name": "Quiz-Show",
+        "script_url": "http://www.awesomefilm.com/script/quizshow.pdf"
+    },
+    "Indiana Jones IV": {
+        "file_name": "Indiana-Jones-IV",
+        "script_url": "http://www.awesomefilm.com/script/IndianaJones4.txt"
+    },
+    "Three Days of the Condo": {
+        "file_name": "Three-Days-of-the-Condo",
+        "script_url": "http://www.awesomefilm.com/script/ThreeDaysoftheCondor.pdf"
+    },
+    "Man on the Moon": {
+        "file_name": "Man-on-the-Moon",
+        "script_url": "http://www.awesomefilm.com/script/manonthemoon.txt"
+    },
+    "Roboco": {
+        "file_name": "Roboco",
+        "script_url": "http://www.awesomefilm.com/script/robocop-script.pdf"
+    },
+    "Big Lebowsk": {
+        "file_name": "Big-Lebowsk",
+        "script_url": "http://www.awesomefilm.com/script/biglebowski.txt"
+    },
+    "Meet Joe Black": {
+        "file_name": "Meet-Joe-Black",
+        "script_url": "http://www.awesomefilm.com/script/meetjoeblack.txt"
+    },
+    "Aliens\r  Vs Predato": {
+        "file_name": "Aliens-Vs-Predato",
+        "script_url": "http://www.awesomefilm.com/script/AliensVsPredator.txt"
+    },
+    "Few Good Men, A": {
+        "file_name": "Few-Good-Men-A",
+        "script_url": "http://www.awesomefilm.com/script/afewgoodmen.txt"
+    },
+    "Graduate, The": {
+        "file_name": "Graduate-The",
+        "script_url": "http://www.awesomefilm.com/script/graduate.txt"
+    },
+    "Jerry Maguire": {
+        "file_name": "Jerry-Maguire",
+        "script_url": "http://www.awesomefilm.com/script/jerryMaguire.txt"
+    },
+    "Wild Hog": {
+        "file_name": "Wild-Hog",
+        "script_url": "http://www.awesomefilm.com/script/WILD-HOGS_Copeland.pdf"
+    },
+    "Braveheart Tran": {
+        "file_name": "Braveheart-Tran",
+        "script_url": "http://www.awesomefilm.com/script/braveheart_transcript.txt"
+    },
+    "Basquia": {
+        "file_name": "Basquia",
+        "script_url": "http://www.awesomefilm.com/script/basquiat.txt"
+    },
+    "Last of the Mochican": {
+        "file_name": "Last-of-the-Mochican",
+        "script_url": "http://www.awesomefilm.com/script/lastmohi.txt"
+    },
+    "One Saliva Bubble": {
+        "file_name": "One-Saliva-Bubble",
+        "script_url": "http://www.awesomefilm.com/script/onesalivabubble.txt"
+    },
+    "Braveheart\r  S": {
+        "file_name": "Braveheart-S",
+        "script_url": "http://www.awesomefilm.com/script/braveht.txt"
+    },
+    "Wonderland": {
+        "file_name": "Wonderland",
+        "script_url": "http://www.awesomefilm.com/script/wonderland_script.html"
+    },
+    "Independence Day": {
+        "file_name": "Independence-Day",
+        "script_url": "http://www.awesomefilm.com/script/ID4.html"
+    },
+    "Mr. and Mrs. Smith": {
+        "file_name": "Mr-and-Mrs-Smith",
+        "script_url": "http://www.awesomefilm.com/script/mr_and_mrs_smith.pdf"
+    },
+    "Commando": {
+        "file_name": "Commando",
+        "script_url": "http://www.awesomefilm.com/script/commandoscript.pdf"
+    },
+    "Crash": {
+        "file_name": "Crash",
+        "script_url": "http://www.awesomefilm.com/script/crash.txt"
+    },
+    "Bull Durham": {
+        "file_name": "Bull-Durham",
+        "script_url": "http://www.awesomefilm.com/script/bulldurham.txt"
+    },
+    "Ghostbuste": {
+        "file_name": "Ghostbuste",
+        "script_url": "http://www.awesomefilm.com/script/Ghostbusters.txt"
+    },
+    "Messenge": {
+        "file_name": "Messenge",
+        "script_url": "http://www.awesomefilm.com/script/themessenger.txt"
+    },
+    "In The Heat of the Nigh": {
+        "file_name": "In-The-Heat-of-the-Nigh",
+        "script_url": "http://www.awesomefilm.com/script/intheheatofthenight.pdf"
+    },
+    "Father of the Bride": {
+        "file_name": "Father-of-the-Bride",
+        "script_url": "http://www.awesomefilm.com/script/fatherofthebride.txt"
+    },
+    "Crouching\r  Tiger, Hidden Dragon": {
+        "file_name": "Crouching-Tiger-Hidden-Dragon",
+        "script_url": "http://www.awesomefilm.com/script/crouchingtiger.txt"
+    },
+    "Dog Day Afternoon": {
+        "file_name": "Dog-Day-Afternoon",
+        "script_url": "http://www.awesomefilm.com/script/dog_day_afternoon.txt"
+    },
+    "2010": {
+        "file_name": "2010",
+        "script_url": "http://www.awesomefilm.com/script/2010.pdf"
+    },
+    "Strange Brew": {
+        "file_name": "Strange-Brew",
+        "script_url": "http://www.awesomefilm.com/script/strangebrew.txt"
+    },
+    "Chinatown": {
+        "file_name": "Chinatown",
+        "script_url": "http://www.awesomefilm.com/script/chinatown.txt"
+    },
+    "Alien\r  Nation": {
+        "file_name": "Alien-Nation",
+        "script_url": "http://www.awesomefilm.com/script/aliennation.txt"
+    },
+    "American Beauty": {
+        "file_name": "American-Beauty",
+        "script_url": "http://www.awesomefilm.com/script/americanbeauty.txt"
+    },
+    "Annie Hall": {
+        "file_name": "Annie-Hall",
+        "script_url": "http://www.awesomefilm.com/script/anniehall.txt"
+    },
+    "Big": {
+        "file_name": "Big",
+        "script_url": "http://www.awesomefilm.com/script/Big.pdf"
+    },
+    "The Godfather Part III": {
+        "file_name": "The-Godfather-Part-III",
+        "script_url": "http://www.awesomefilm.com/script/Godfather_PartIII%283-12-79%29.pdf"
+    },
+    "Fantasia 2000": {
+        "file_name": "Fantasia-2000",
+        "script_url": "http://www.awesomefilm.com/script/fantasia_2000_dialogue.doc"
+    },
+    "Only You": {
+        "file_name": "Only-You",
+        "script_url": "http://www.awesomefilm.com/script/onlyyou.txt"
+    },
+    "Halloween H20": {
+        "file_name": "Halloween-H20",
+        "script_url": "http://www.awesomefilm.com/script/HalloweenH20.txt"
+    },
+    "As Good As It Ge": {
+        "file_name": "As-Good-As-It-Ge",
+        "script_url": "http://www.awesomefilm.com/script/asitgets.txt"
+    },
+    "In The Bedroom": {
+        "file_name": "In-The-Bedroom",
+        "script_url": "http://www.awesomefilm.com/script/In_The_Bedroom.pdf"
+    },
+    "My Best Friend's Wedding": {
+        "file_name": "My-Best-Friends-Wedding",
+        "script_url": "http://www.awesomefilm.com/script/mybestfriendswedding.txt"
+    },
+    "Apocalypse Now": {
+        "file_name": "Apocalypse-Now",
+        "script_url": "http://www.awesomefilm.com/script/apocalypsenow_draft.txt"
+    },
+    "part 1": {
+        "file_name": "part-1",
+        "script_url": "http://www.awesomefilm.com/script/hook1.pdf"
+    },
+    "AirForce\r  One": {
+        "file_name": "AirForce-One",
+        "script_url": "http://www.awesomefilm.com/script/AirForceOne_TXT.htm"
+    },
+    "Life Aqua": {
+        "file_name": "Life-Aqua",
+        "script_url": "http://www.awesomefilm.com/script/lifeaquatic.pdf"
+    },
+    "Kid": {
+        "file_name": "Kid",
+        "script_url": "http://www.awesomefilm.com/script/Kids.pdf"
+    },
+    "Smoke": {
+        "file_name": "Smoke",
+        "script_url": "http://www.awesomefilm.com/script/smoke.txt"
+    },
+    "The Elephant Man": {
+        "file_name": "The-Elephant-Man",
+        "script_url": "http://www.awesomefilm.com/script/elephantman.txt"
+    },
+    "10 Things I Hate About You": {
+        "file_name": "10-Things-I-Hate-About-You",
+        "script_url": "http://www.awesomefilm.com/script/tenthings_transcript.html"
+    },
+    "Arcade": {
+        "file_name": "Arcade",
+        "script_url": "http://www.awesomefilm.com/script/ms_arcad.txt"
+    },
+    "Bound": {
+        "file_name": "Bound",
+        "script_url": "http://www.awesomefilm.com/script/bound_unspecdraft.txt"
+    },
+    "Hacke": {
+        "file_name": "Hacke",
+        "script_url": "http://www.awesomefilm.com/script/Hackers.txt"
+    },
+    "Stir Of Echoe": {
+        "file_name": "Stir-Of-Echoe",
+        "script_url": "http://www.awesomefilm.com/script/stirofechoes.pdf"
+    },
+    "Napoleon Dynamite": {
+        "file_name": "Napoleon-Dynamite",
+        "script_url": "http://www.awesomefilm.com/script/Napoleon-Dynamite-transcript.doc"
+    },
+    "Romeo + Julie": {
+        "file_name": "Romeo-Julie",
+        "script_url": "http://www.awesomefilm.com/script/romeo%2Bjuliet.txt"
+    },
+    "Zerophilia": {
+        "file_name": "Zerophilia",
+        "script_url": "http://www.awesomefilm.com/script/Zerophilia.pdf"
+    },
+    "Clerk": {
+        "file_name": "Clerk",
+        "script_url": "http://www.awesomefilm.com/script/clerks.txt"
+    },
+    "Deep End of the Ocean": {
+        "file_name": "Deep-End-of-the-Ocean",
+        "script_url": "http://www.awesomefilm.com/script/Deep_End_of_the_Ocean.txt"
+    },
+    "Pirscilla, Queen of the Dese": {
+        "file_name": "Pirscilla-Queen-of-the-Dese",
+        "script_url": "http://www.awesomefilm.com/script/priscilla.txt"
+    },
+    "The Ringe": {
+        "file_name": "The-Ringe",
+        "script_url": "http://www.awesomefilm.com/script/ringer.pdf"
+    },
+    "Treasure of the Sierra Madre": {
+        "file_name": "Treasure-of-the-Sierra-Madre",
+        "script_url": "http://www.awesomefilm.com/script/treasureofthesierramadre.pdf"
+    },
+    "Asylum": {
+        "file_name": "Asylum",
+        "script_url": "http://www.awesomefilm.com/script/asylum.txt"
+    },
+    "Exo": {
+        "file_name": "Exo",
+        "script_url": "http://www.awesomefilm.com/script/exorcist_dialogue.doc"
+    },
+    "Superman Live": {
+        "file_name": "Superman-Live",
+        "script_url": "http://www.awesomefilm.com/script/supermanlives-20Sep98.pdf"
+    },
+    "Girl with a Pearl Earring": {
+        "file_name": "Girl-with-a-Pearl-Earring",
+        "script_url": "http://www.awesomefilm.com/script/girlwithapearlearring.pdf"
+    },
+    "Notting Hill": {
+        "file_name": "Notting-Hill",
+        "script_url": "http://www.awesomefilm.com/script/nothill.txt"
+    },
+    "Barton Fink": {
+        "file_name": "Barton-Fink",
+        "script_url": "http://www.awesomefilm.com/script/bartonfink.txt"
+    },
+    "9th Gate": {
+        "file_name": "9th-Gate",
+        "script_url": "http://www.awesomefilm.com/script/ninthgate.txt"
+    },
+    "At First Site": {
+        "file_name": "At-First-Site",
+        "script_url": "http://www.awesomefilm.com/script/atfirstsight.txt"
+    },
+    "Bridges\r  of Madison County, The": {
+        "file_name": "Bridges-of-Madison-County-The",
+        "script_url": "http://www.awesomefilm.com/script/bomc.txt"
+    },
+    "Gladiato": {
+        "file_name": "Gladiato",
+        "script_url": "http://www.awesomefilm.com/script/gladiator_transcript.txt"
+    },
+    "Rock, The": {
+        "file_name": "Rock-The",
+        "script_url": "http://www.awesomefilm.com/script/The-Rock.txt"
+    },
+    "Taxi Drive": {
+        "file_name": "Taxi-Drive",
+        "script_url": "http://www.awesomefilm.com/script/taxidriver.html"
+    },
+    "Body of Evidence": {
+        "file_name": "Body-of-Evidence",
+        "script_url": "http://www.awesomefilm.com/script/bodyofevidence.txt"
+    },
+    "World Is Not Enough": {
+        "file_name": "World-Is-Not-Enough",
+        "script_url": "http://www.awesomefilm.com/script/worldisnotenough.txt"
+    },
+    "Shakespeare in Love": {
+        "file_name": "Shakespeare-in-Love",
+        "script_url": "http://www.awesomefilm.com/script/shakespeareinlove.txt"
+    },
+    "Bound - First Draf": {
+        "file_name": "Bound-First-Draf",
+        "script_url": "http://www.awesomefilm.com/script/bound_firstdraft.txt"
+    },
+    "M.A.S.H.": {
+        "file_name": "MASH",
+        "script_url": "http://www.awesomefilm.com/script/Mash.txt"
+    },
+    "Romy and Michelle's High School Reunion": {
+        "file_name": "Romy-and-Michelles-High-School-Reunion",
+        "script_url": "http://www.awesomefilm.com/script/romyandmichelle.txt"
+    },
+    "Duel": {
+        "file_name": "Duel",
+        "script_url": "http://www.awesomefilm.com/script/Duel.pdf"
+    },
+    "Zulu Dawn": {
+        "file_name": "Zulu-Dawn",
+        "script_url": "http://www.awesomefilm.com/script/zuludawn.txt"
+    },
+    "Last Action Hero - first draf": {
+        "file_name": "Last-Action-Hero-first-draf",
+        "script_url": "http://www.awesomefilm.com/script/Last_Action_Hero_%281st%20Draft%29.pdf"
+    },
+    "Last Action Here - shooting draf": {
+        "file_name": "Last-Action-Here-shooting-draf",
+        "script_url": "http://www.awesomefilm.com/script/Last_Action_Hero.pdf"
+    },
+    "Airplane": {
+        "file_name": "Airplane",
+        "script_url": "http://www.awesomefilm.com/script/airplane.txt"
+    },
+    "Malcom X": {
+        "file_name": "Malcom-X",
+        "script_url": "http://www.awesomefilm.com/script/malcomx.txt"
+    },
+    "Alien": {
+        "file_name": "Alien",
+        "script_url": "http://www.awesomefilm.com/script/Alien.txt"
+    },
+    "Space Ball": {
+        "file_name": "Space-Ball",
+        "script_url": "http://www.awesomefilm.com/script/spcballs.txt"
+    },
+    "Boys on the Side": {
+        "file_name": "Boys-on-the-Side",
+        "script_url": "http://www.awesomefilm.com/script/boysontheside.txt"
+    },
+    "Schindler's L": {
+        "file_name": "Schindlers-L",
+        "script_url": "http://www.awesomefilm.com/script/schindlerslist.txt"
+    },
+    "Ren": {
+        "file_name": "Ren",
+        "script_url": "http://www.awesomefilm.com/script/rent.txt"
+    },
+    "Working Girl": {
+        "file_name": "Working-Girl",
+        "script_url": "http://www.awesomefilm.com/script/workinggirl.txt"
+    },
+    "48\r  Hou": {
+        "file_name": "48-Hou",
+        "script_url": "http://www.awesomefilm.com/script/48hours.txt"
+    },
+    "Jackie Brown": {
+        "file_name": "Jackie-Brown",
+        "script_url": "http://www.awesomefilm.com/script/jackiebrown.txt"
+    },
+    "Gandh": {
+        "file_name": "Gandh",
+        "script_url": "http://www.awesomefilm.com/script/gandhi.txt"
+    },
+    "Come See the Paradise": {
+        "file_name": "Come-See-the-Paradise",
+        "script_url": "http://www.awesomefilm.com/script/seetheparadise.txt"
+    },
+    "Going for the Gold": {
+        "file_name": "Going-for-the-Gold",
+        "script_url": "http://www.awesomefilm.com/script/goingforthegold.txt"
+    },
+    "Horse Whisperer, The": {
+        "file_name": "Horse-Whisperer-The",
+        "script_url": "http://www.awesomefilm.com/script/h_whispr.txt"
+    },
+    "The Forsaken": {
+        "file_name": "The-Forsaken",
+        "script_url": "http://www.awesomefilm.com/script/forsaken.doc"
+    },
+    "Karate Kid": {
+        "file_name": "Karate-Kid",
+        "script_url": "http://www.awesomefilm.com/script/karatekid.pdf"
+    },
+    "Million Dollar Baby": {
+        "file_name": "Million-Dollar-Baby",
+        "script_url": "http://www.awesomefilm.com/script/million_dollar_baby.pdf"
+    },
+    "Alien\r  3": {
+        "file_name": "Alien-3",
+        "script_url": "http://www.awesomefilm.com/script/Alien3.txt"
+    },
+    "True Lie": {
+        "file_name": "True-Lie",
+        "script_url": "http://www.awesomefilm.com/script/truelies.txt"
+    },
+    "Memoirs of a Geisha": {
+        "file_name": "Memoirs-of-a-Geisha",
+        "script_url": "http://www.awesomefilm.com/script/memoirsofageisha.pdf"
+    },
+    "Mr. Brook": {
+        "file_name": "Mr-Brook",
+        "script_url": "http://www.awesomefilm.com/script/Mr_Brooks.pdf"
+    },
+    "The God Fathe": {
+        "file_name": "The-God-Fathe",
+        "script_url": "http://www.awesomefilm.com/script/THEGODFATHER.txt"
+    },
+    "Glengarry Glen Ro": {
+        "file_name": "Glengarry-Glen-Ro",
+        "script_url": "http://www.awesomefilm.com/script/glengarry.html"
+    },
+    "1492:The Conquest of Paradise": {
+        "file_name": "1492The-Conquest-of-Paradise",
+        "script_url": "http://www.awesomefilm.com/script/1492conquestofparadise.txt"
+    },
+    "Bamboozeled": {
+        "file_name": "Bamboozeled",
+        "script_url": "http://www.awesomefilm.com/script/Bamboozled.txt"
+    },
+    "Ten Things I Hate About You": {
+        "file_name": "Ten-Things-I-Hate-About-You",
+        "script_url": "http://www.awesomefilm.com/script/tenthingsIhateaboutyou.txt"
+    },
+    "Arctic Blue": {
+        "file_name": "Arctic-Blue",
+        "script_url": "http://www.awesomefilm.com/script/arcticblue.txt"
+    },
+    "Tomorrow Never Die": {
+        "file_name": "Tomorrow-Never-Die",
+        "script_url": "http://www.awesomefilm.com/script/tomorrowneverdies.txt"
+    },
+    "Emma": {
+        "file_name": "Emma",
+        "script_url": "http://www.awesomefilm.com/script/emma.txt"
+    },
+    "The Surfer King": {
+        "file_name": "The-Surfer-King",
+        "script_url": "http://www.awesomefilm.com/script/The%2BSurfer%2BKing.pdf"
+    },
+    "Do the Right Thing": {
+        "file_name": "Do-the-Right-Thing",
+        "script_url": "http://www.awesomefilm.com/script/dotherightthing.txt"
+    },
+    "Field of Dream": {
+        "file_name": "Field-of-Dream",
+        "script_url": "http://www.awesomefilm.com/script/Field_of_Dreams.pdf"
+    },
+    "one": {
+        "file_name": "one",
+        "script_url": "http://www.awesomefilm.com/script/clue1-2.pdf"
+    },
+    "Halloween": {
+        "file_name": "Halloween",
+        "script_url": "http://www.awesomefilm.com/script/Halloween.txt"
+    },
+    "The Thing": {
+        "file_name": "The-Thing",
+        "script_url": "http://www.awesomefilm.com/script/thing.pdf"
+    },
+    "Mean Stree": {
+        "file_name": "Mean-Stree",
+        "script_url": "http://www.awesomefilm.com/script/meanstreet.html"
+    },
+    "Dave Barry's Complete Guide to Guy": {
+        "file_name": "Dave-Barrys-Complete-Guide-to-Guy",
+        "script_url": "http://www.awesomefilm.com/script/Dave%2BBarryCGTG.pdf"
+    },
+    "8 MM": {
+        "file_name": "8-MM",
+        "script_url": "http://www.awesomefilm.com/script/8millimeter.txt"
+    },
+    "Avenge": {
+        "file_name": "Avenge",
+        "script_url": "http://www.awesomefilm.com/script/avengers.txt"
+    },
+    "This Is Spinal Ta": {
+        "file_name": "This-Is-Spinal-Ta",
+        "script_url": "http://www.awesomefilm.com/script/thisisspinaltap.html"
+    },
+    "The Produce": {
+        "file_name": "The-Produce",
+        "script_url": "http://www.awesomefilm.com/script/producers.html"
+    },
+    "My Own Private Idaho": {
+        "file_name": "My-Own-Private-Idaho",
+        "script_url": "http://www.awesomefilm.com/script/myownprivateidaho.txt"
+    },
+    "RKO 281": {
+        "file_name": "RKO-281",
+        "script_url": "http://www.awesomefilm.com/script/rko281.pdf"
+    },
+    "Kramer versus Krame": {
+        "file_name": "Kramer-versus-Krame",
+        "script_url": "http://www.awesomefilm.com/script/kramerVsKramer.txt"
+    },
+    "The World is Not Enough": {
+        "file_name": "The-World-is-Not-Enough",
+        "script_url": "http://www.awesomefilm.com/script/theworldisnotenough.txt"
+    },
+    "A Night at the Roxbury": {
+        "file_name": "A-Night-at-the-Roxbury",
+        "script_url": "http://www.awesomefilm.com/script/roxt.txt"
+    },
+    "Breakfast Club": {
+        "file_name": "Breakfast-Club",
+        "script_url": "http://www.awesomefilm.com/script/breakfastclub.txt"
+    },
+    "Traff": {
+        "file_name": "Traff",
+        "script_url": "http://www.awesomefilm.com/script/traffic.txt"
+    },
+    "Agnes of God": {
+        "file_name": "Agnes-of-God",
+        "script_url": "http://www.awesomefilm.com/script/agnesofgod.txt"
+    }
+}
